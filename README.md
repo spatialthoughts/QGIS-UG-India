@@ -17,10 +17,9 @@
   <ol>
     <li><a href="#-project-overview"> 🚀 Project Overview </a></li>
     <li><a href="#-getting-started"> 🎯 Getting Started </a></li>
-    <li><a href="#-setting-up-your-user-group-site"> 🛠️ Setting Up Your User Group Site </a></li>
+    <li><a href="#️-setting-up-your-user-group-site"> 🛠️ Setting Up Your User Group Site </a></li>
     <li><a href="#-folder-structure"> 📂 Folder Structure </a></li>
-    <li><a href="#-customizing-your-site"> ✏️ Customizing Your Site </a></li>
-    <li><a href="#-deployment"> 🚀 Deployment </a></li>
+    <li><a href="#️-customizing-your-site"> ✏️ Customizing Your Site </a></li>
     <li><a href="#-license"> 📜 License </a></li>
     <li><a href="#-using-the-nix-shell"> 🧊 Using the Nix Shell </a></li>
     <li><a href="#-contributing"> ✨ Contributing </a></li>
