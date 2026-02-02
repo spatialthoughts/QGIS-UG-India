@@ -64,7 +64,7 @@ To ensure a welcoming and productive environment for all members, we ask everyon
 
 If you experience or witness behavior that violates these guidelines:
 1. Contact any board member or organizer
-2. Send an email to [conduct@example.com]
+2. Send an email to [conduct@in.qgis.org]
 3. All reports will be handled confidentially
 
 ### Consequences
@@ -98,6 +98,6 @@ These rules may be updated from time to time. Members will be notified of signif
 
 ## Questions?
 
-If you have questions about these rules, contact us at [contact@example.com]
+If you have questions about these rules, contact us at [contact@in.qgis.org]
 
 {{< content-end >}}
