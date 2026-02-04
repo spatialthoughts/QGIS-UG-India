@@ -4,7 +4,7 @@ title: "QGIS [Country]"
 subtitle: "Connecting QGIS users"
 draft: false
 heroSize: "is-medium"
-heroLogo: "/img/qgis_india.png"
+heroLogo: "/img/qgis_ch.png"
 HeroImage: "/img/hegobg1.webp"
 HasBanner: true
 sidebar: true
