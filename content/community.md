@@ -1,16 +1,16 @@
 ---
 type: "page"
 title: "Community"
-subtitle: "QGIS in India ecosystem"
+subtitle: "QGIS ecosystem"
 draft: false
 sidebar: true
 ---
 
 {{< content-start >}}
 
-# QGIS in India Ecosystem
+# QGIS User Group Ecosystem
 
-Discover companies, contributors, and products supporting QGIS in India.
+Discover companies, contributors, and products supporting QGIS.
 
 {{< columns-start >}}
 {{< column-start class="is-flex-direction-column is-half">}}
@@ -31,7 +31,7 @@ Discover companies, contributors, and products supporting QGIS in India.
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1" >}}
 
-### Plugins & Products from India
+### Plugins & Products
 
 - **[Plugin/product]** — Short description, link
 - **[Plugin/product]** — Short description, link
@@ -63,7 +63,7 @@ Discover companies, contributors, and products supporting QGIS in India.
 
 ### How to Join
 
-- Email: [community@in.qgis.org]
+- Email: [community@example.com]
 - Join our chat: [link]
 - Follow updates: [social links]
 

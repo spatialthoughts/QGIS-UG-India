@@ -1,7 +1,7 @@
 ---
 type: "page"
-title: "QGIS India"
-subtitle: "Connecting QGIS users across India"
+title: "QGIS [Country]"
+subtitle: "Connecting QGIS users"
 draft: false
 heroSize: "is-medium"
 heroLogo: "/img/qgis_india.png"
@@ -14,9 +14,9 @@ ButtonLink: "events/"
 
 {{< content-start >}}
 
-## Welcome to the QGIS India User Group
+## Welcome to the QGIS User Group
 
-We are a community of QGIS users across India, promoting open-source geospatial technology. Our mission is to grow QGIS adoption, share knowledge, and support each other on local and national projects.
+We are a community of QGIS users promoting open-source geospatial technology. Our mission is to grow QGIS adoption, share knowledge, and support each other on local projects.
 
 {{< columns-start >}}
 {{< column-start class="is-flex-direction-column is-one-third left-title">}}
@@ -29,10 +29,10 @@ We are a community of QGIS users across India, promoting open-source geospatial 
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1" >}} 
 
-- Organize national and regional meetups and events
-- Share India-focused use cases and best practices
+- Organize meetups and events
+- Share local use cases and best practices
 - Support QGIS users at all levels
-- Contribute to the QGIS project and local plugins
+- Contribute to the QGIS project and plugins
 - Connect with geospatial professionals and institutions
 
 {{< rich-content-end >}}
@@ -52,7 +52,7 @@ We are a community of QGIS users across India, promoting open-source geospatial 
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1" >}} 
 
-Whether you're a beginner or an experienced QGIS user, everyone is welcome. Join our events, participate in discussions, and help grow the QGIS India community.
+Whether you're a beginner or an experienced QGIS user, everyone is welcome. Join our events, participate in discussions, and help grow the community.
 
 [See our upcoming events](/events/)
 

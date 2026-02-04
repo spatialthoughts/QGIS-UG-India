@@ -10,13 +10,13 @@ sidebar: true
 
 # Events
 
-Stay updated with our upcoming meetups, workshops, and conferences across India. Join us to learn, share, and network with fellow QGIS enthusiasts.
+Stay updated with our upcoming meetups, workshops, and conferences. Join us to learn, share, and network with fellow QGIS enthusiasts.
 
 ## Upcoming Events
 
 {{< rich-box-start layoutClass="has-right rounded" >}}
 {{< rich-content-start themeClass="coloring-2" >}}
-### QGIS India Meetup (Placeholder)
+### QGIS User Group Meetup (Placeholder)
 
 When: [Date]  
 Where: [City / Online]
@@ -45,7 +45,7 @@ We organize regular meetups where members can:
 - Network with other users
 
 **When:** [Monthly/Quarterly schedule]  
-**Where:** [City venues / Online]  
+**Where:** [Venues / Online]  
 **Registration:** [Registration link]
 
 
@@ -83,7 +83,7 @@ Check back regularly for upcoming workshop announcements.
 {{< rich-content-start themeClass="coloring-1" >}}
 ##### Get Involved
 
-Want to present at our next meetup or organize an event? Contact us at [events@in.qgis.org]
+Want to present at our next meetup or organize an event? Contact us at [events@example.com]
 
 
 {{< rich-content-end >}}

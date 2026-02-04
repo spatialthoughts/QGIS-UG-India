@@ -1,7 +1,7 @@
 ---
 type: "page"
 title: "Case Studies"
-subtitle: "Local success stories from QGIS India"
+subtitle: "Local success stories"
 draft: false
 sidebar: true
 ---

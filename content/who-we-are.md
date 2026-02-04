@@ -1,7 +1,7 @@
 ---
 type: "page"
 title: "About Us"
-subtitle: "Meet the QGIS India community"
+subtitle: "Meet the QGIS user group"
 draft: false
 sidebar: true
 url: "/about-us/"
@@ -11,13 +11,13 @@ url: "/about-us/"
 
 # About Us
 
-We are the QGIS India User Group, committed to promoting open-source geospatial technology and supporting practitioners across India.
+We are a QGIS User Group, committed to promoting open-source geospatial technology and supporting practitioners.
 
 ## Our Mission
 
 Our mission is to:
-- Foster collaboration among QGIS users across India
-- Promote knowledge sharing and best practices tailored to Indian contexts
+- Foster collaboration among QGIS users
+- Promote knowledge sharing and best practices
 - Support the growth of open-source GIS
 - Contribute to the global QGIS community
 - Provide learning opportunities for all skill levels
@@ -26,8 +26,8 @@ Our mission is to:
 
 ### Coordinators / Leadership
 
-- **National Coordinator:** [Name]
-- **Regional Leads:** [Names by region/state]
+- **Coordinator:** [Name]
+- **Regional/Local Leads:** [Names by region]
 - **Volunteers:** [Roles: outreach, events, training, comms]
 
 ### Active Members
@@ -50,7 +50,7 @@ We welcome everyone interested in QGIS, from complete beginners to experienced p
 
 ## Contact Us
 
-- **Email:** [contact@in.qgis.org]
+- **Email:** [contact@example.com]
 - **Mailing List:** [link to mailing list]
 - **Social Media:** [links to social media]
 - **Chat:** [link to chat platform]

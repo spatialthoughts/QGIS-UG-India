@@ -3,7 +3,7 @@
     {
       "type": "menu",
       "settings": {
-        "name": "QGIS India",
+        "name": "QGIS [Country]",
         "children": [
           {
             "type": "second-menu",

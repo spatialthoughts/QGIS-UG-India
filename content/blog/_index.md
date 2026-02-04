@@ -13,7 +13,7 @@ sidebar: true
 
 ## Weekly QGIS Tips
 
-Quick, practical tips to improve your QGIS workflow in India. New tips every week.
+Quick, practical tips to improve your QGIS workflow. New tips every week.
 
 {{< columns-start >}}
 {{< column-start class="is-flex-direction-column is-full">}}
