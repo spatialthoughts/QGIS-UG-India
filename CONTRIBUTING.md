@@ -99,7 +99,7 @@ The QGIS website development workflow relies on `make` for automation and the `h
 
 1.  **Install Make:** Update your package lists and install the make utility:
     ```bash
-    sudo apt update && sudo apt install make
+    sudo apt install make
     ```
 2.  **Download Hugo (Extended Version):** We use the extended version specifically to support SCSS/SASS processing required by the QGIS website themes.
     ```bash
@@ -130,15 +130,26 @@ To fix this, you must remount the drive with **metadata** enabled. This allows L
 
 ---
 
-##### 4. Clone the Repository
-Navigate to your preferred directory on your local Windows system via the WSL terminal and clone the repository:
+##### 4. Clone and Launch the Website
+Once the permissions are configured, you can clone the repository and use the built-in `Makefile` commands to start the local development server.
 
-```bash
-# Example: Navigating to your user Documents folder
-cd /mnt/c/Users/YourUsername/Documents
-git clone https://github.com/QGIS/QGIS-User-Group-Website.git
-cd QGIS-User-Group-Website
-```
+1.  **Navigate and Clone:**
+    ```bash
+    # Navigate to your preferred Windows directory
+    cd /mnt/c/Users/YourUsername/Documents
+
+    # Clone the repository
+    git clone https://github.com/QGIS/QGIS-User-Group-Website.git
+    cd QGIS-User-Group-Website
+    ```
+
+2.  **Run the Development Server:**
+    The QGIS repository uses `make` to simplify Hugo commands. Run the following to build the site and start the local server:
+    ```bash
+    make hugo-run-dev
+    ```
+
+Once the command finishes building, the website will usually be available at `http://localhost:1313`. Any changes you make to the files will automatically trigger a refresh in your browser.
 
 ### 🍏 macOS: 
 
