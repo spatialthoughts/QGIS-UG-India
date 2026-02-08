@@ -74,11 +74,11 @@ This guide provides a step-by-step workflow to set up a local development enviro
 ---
 
 ##### 1. Initialize WSL and Ubuntu
-WSL allows you to run a Linux environment directly on Windows without the overhead of a traditional virtual machine.
+WSL allows you to run a Linux environment directly on Windows without the overhead of a traditional virtual machine. You can install WSL and the specific Ubuntu distribution in a single step.
 
-1.  **Install WSL:** Open PowerShell (as a standard user) and run:
+1.  **Install Ubuntu 24.04 via WSL:** Open PowerShell (as a standard user) and run:
     ```powershell
-    wsl --install
+    wsl --install Ubuntu-24.04
     ```
 2.  **Verify & Reboot:** Check the status to ensure the subsystem is active:
     ```powershell
@@ -86,29 +86,27 @@ WSL allows you to run a Linux environment directly on Windows without the overhe
     ```
     *Note: A system reboot is required after the initial installation to enable the necessary virtualization features.*
 
-3.  **Install Ubuntu 24.04:** After rebooting, install the specific distribution:
-    ```powershell
-    wsl --install Ubuntu-24.04
-    ```
     *Launch **Ubuntu 24.04** from your Start Menu to complete the initial Linux user profile setup (username and password).*
 
 ---
 
 ##### 2. Install Build Essentials and Hugo
-The QGIS website development workflow relies on `make` for automation and the `hugo` extended binary for rendering the site.
+The QGIS website requires `make` for automation and the `Hugo Extended` binary for SCSS/SASS processing.
 
 1.  **Install Make:** Update your package lists and install the make utility:
     ```bash
-    sudo apt install make
+    sudo apt update && sudo apt install make
     ```
-2.  **Download Hugo (Extended Version):** We use the extended version specifically to support SCSS/SASS processing required by the QGIS website themes.
-    ```bash
-    wget [https://github.com/gohugoio/hugo/releases/download/v0.155.2/hugo_extended_0.155.2_linux-amd64.deb](https://github.com/gohugoio/hugo/releases/download/v0.155.2/hugo_extended_0.155.2_linux-amd64.deb)
-    ```
-3.  **Install the Package:**
-    ```bash
-    sudo dpkg -i hugo_extended_0.155.2_linux-amd64.deb
-    ```
+2.  **Download Hugo (Extended Version):**
+    * Check the latest version of Hugo at [https://github.com/gohugoio/hugo/releases](https://github.com/gohugoio/hugo/releases).
+    * From your Ubuntu terminal, download the **extended** version for your architecture (usually `amd64`) using `wget`:
+        ```bash
+        wget https://github.com/gohugoio/hugo/releases/download/v0.155.2/hugo_extended_0.155.2_linux-amd64.deb
+        ```
+    * Install the downloaded package:
+        ```bash
+        sudo dpkg -i hugo_extended_<version>_linux-amd64.deb
+        ```
 
 ---
 
