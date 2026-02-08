@@ -67,6 +67,8 @@ dpkg -x hugo_extended_0.139.3_linux-amd64.deb
 
 ### 🪟 Windows
 
+We recommend using Windows Subsystem for Linux (WSL) for Hugo development on Windows instead of using Hugo packages for Windows.
+
 #### Setting Up QGIS Website Development Environment (WSL + Hugo)
 
 This guide provides a step-by-step workflow to set up a local development environment for the QGIS website using Windows Subsystem for Linux (WSL) and the Hugo static site generator.
