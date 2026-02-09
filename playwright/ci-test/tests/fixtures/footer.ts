@@ -45,7 +45,7 @@ export class Footer {
 
     constructor(public readonly page: Page) {
         this.banner = this.page.getByRole("contentinfo");
-        this.liElement = this.page.locator("li");
+        this.liElement = this.banner.locator("li");
         this.projectList = this.liElement
             .filter({ hasText: "Project" })
             .first();
