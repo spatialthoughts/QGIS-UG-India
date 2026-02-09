@@ -49,7 +49,7 @@ export class Header {
         });
         this.caseStudiesLink = this.mainNavigation.getByRole("link", {
             name: "Case studies",
-        });
+        }).last();
         this.newsAndBlog = this.mainNavigation.getByRole("link", {
             name: "News and Blog",
         });
@@ -69,7 +69,7 @@ export class Header {
         this.supportLink = this.mainNavigation.getByRole("link", {
             name: "Contact and Support",
         });
-        this.communityLink = this.mainNavigation.getByText("Community");
+        this.communityLink = this.mainNavigation.getByText("Community").last();
         this.getInvolvedLink = this.mainNavigation.getByRole("link", {
             name: "Get involved",
         });
