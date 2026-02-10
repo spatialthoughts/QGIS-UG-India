@@ -13,14 +13,4 @@ section: 'case-studies'
 
 > **Want to showcase your QGIS project?** [Submit your case study](#submit-your-case-study) and inspire the community with your success story.
 
-{{< usecases >}}
-
-
-##### Submit a Case Study
-
-Have a project to feature? Share details at [case-studies@example.com].
-
-{{< rich-content-end >}}
-{{< rich-box-end >}}
-
 {{< content-end >}}
