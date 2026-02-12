@@ -31,7 +31,7 @@ Your contributions will be seen by other people, and you in turn will depend on 
 
 Not all of us will agree all the time, but disagreement is no excuse for poor behaviour and poor manners. We might all experience some frustration now and then, but we cannot allow that frustration to turn into a personal attack. It's important to remember that a community where people feel uncomfortable or threatened is not a productive one. Members should be respectful when dealing with other members as well as with people outside the community.
 
-### Be Pateint
+### Be Patient
 
 Not everyone learns at the same pace. Not everyone has the same background. What seems obvious to you may be new to someone else. Take time to explain, and be gracious when others take time to explain things to you.
 
