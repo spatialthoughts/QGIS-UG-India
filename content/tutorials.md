@@ -20,6 +20,11 @@ Practical QGIS tutorials, including local data, projections, and workflows.
 - [Tutorial title] — [1–2 line summary of the tutorial and link]
 - [Tutorial title] — [1–2 line summary of the tutorial and link]
 - [Tutorial title] — [1–2 line summary of the tutorial and link]
+- [Tutorial title] — [1–2 line summary of the tutorial and link]
+- [Tutorial title] — [1–2 line summary of the tutorial and link]
+- [Tutorial title] — [1–2 line summary of the tutorial and link]
+- [Tutorial title] — [1–2 line summary of the tutorial and link]
+- [Tutorial title] — [1–2 line summary of the tutorial and link]
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
