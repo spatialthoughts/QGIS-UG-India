@@ -12,9 +12,7 @@ sidebar: true
 
 The QGIS India User Group is made up of professionals, students, and volunteers from across India, working on every aspect of open-source GIS, including learning, teaching, and connecting people.
 
-Diversity is one of our strengths, but it can also lead to communication issues. To that end, we have a few ground rules that we ask people to adhere to when participating in this community. These rules apply equally to organisers, experienced members, and those seeking help and guidance.
-
-This isn't an exhaustive list of things that you can't do. Rather, take it in the spirit in which it's intended: a guide to make it easier to enrich all of us and the technical communities in which we participate.
+Diversity is one of our strengths, but it can also lead to communication issues. To that end, we have a few ground rules that we ask people to adhere to when participating in this community. These rules apply equally to organisers, experienced members, and those seeking help and guidance. This isn't an exhaustive list of things that you can't do. Rather, take it in the spirit in which it's intended: a guide to make it easier to enrich all of us and the technical communities in which we participate.
 
 This code of conduct applies to all spaces managed by the QGIS India User Group. This includes the Telegram group, mailing list, social media channels, events, and any other forums the community uses for communication.
 
@@ -53,12 +51,14 @@ We are a community of professionals, and we conduct ourselves professionally. Be
 - Repeated harassment of others. In general, if someone asks you to stop, then stop
 
 ### No spam
+
 - No unsolicited promotional content or advertisements
 - No repeated posting of the same content
 - No off-topic job postings without prior permission from admins
 - No forwarded messages, chain messages, or bulk content unrelated to GIS
 
 ### Stay within the law
+
 - Do not share pirated software, cracked licenses, or illegal content
 - Do not share copyrighted material without proper attribution or permission
 - Do not use this community to facilitate any illegal activity
@@ -66,7 +66,8 @@ We are a community of professionals, and we conduct ourselves professionally. Be
 
 
 ## When we disagree, try to understand why
-Disagreements, both social and technical, happen all the time and QGIS India User Group is no exception. It is important that we resolve disagreements and differing views constructively. Remember that we're different. The strength of QGIS India User Group comes from its varied community, people from a wide range of backgrounds. Different people have different perspectives on issues. Being unable to understand why someone holds a viewpoint doesn't mean that they're wrong. Don't forget that it is human to err and blaming each other doesn't get us anywhere. Rather, offer to help resolve issues and help learn from mistakes.
+
+Disagreements, both social and technical, happen all the time and the QGIS India User Group is no exception. It is important that we resolve disagreements and differing views constructively. Remember that we're different. The strength of the QGIS India User Group comes from its varied community, people from a wide range of backgrounds. Different people have different perspectives on issues. Being unable to understand why someone holds a viewpoint doesn't mean that they're wrong. Don't forget that it is human to err and blaming each other doesn't get us anywhere. Rather, offer to help resolve issues and to learn from mistakes.
 
 
 This Code of Conduct is adapted from the QGIS Project Code of Conduct.
