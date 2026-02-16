@@ -8,7 +8,7 @@ sidebar: true
 
 {{< content-start >}}
 
-# Purpose
+# Rules
 
 The QGIS India User Group is made up of professionals, students, and volunteers from across India, working on every aspect of open-source GIS, including learning, teaching, and connecting people.
 
