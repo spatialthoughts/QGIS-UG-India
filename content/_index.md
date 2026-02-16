@@ -9,7 +9,7 @@ HeroImage: "img/hegobg1.webp"
 HasBanner: true
 sidebar: true
 ButtonText: "Join Us!" 
-ButtonLink: "#get-involved"
+ButtonLink: "#join-us"
 ---
 
 {{< content-start >}}
@@ -50,7 +50,7 @@ We are a community of QGIS users passionate about open-source geospatial technol
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1" >}} 
 
-Whether you're a beginner or an experienced QGIS user, everyone is welcome. Join our events, participate in discussions, and help grow the community.
+Whether you're a beginner or an experienced QGIS user, everyone is welcome. Join our events, participate in discussions, and help grow the community. 
 
 &nbsp;&nbsp;<i class="fab fa-telegram-plane"></i> [Telegram Group](https://t.me/+YVUWbgjA320wZGU1): Our main channel for discussions, asking for help, and connecting with other members.
 
@@ -58,7 +58,7 @@ Whether you're a beginner or an experienced QGIS user, everyone is welcome. Join
 
 &nbsp;&nbsp;<i class="fab fa-linkedin"></i> [LinkedIn Group](https://www.linkedin.com/groups/17314018/): Join the LinkedIn group for updates and discussions.
 
-[See our upcoming events]({{< relref "events" >}})
+Check out our [Rules]({{< relref "rules" >}}) page to learn about our community guidelines.
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
@@ -68,6 +68,6 @@ Whether you're a beginner or an experienced QGIS user, everyone is welcome. Join
 
 ## Get Involved
 
-We welcome new members and contributors. Check out our [Rules](/rules/) page to learn about our community guidelines, and visit [About Us](/about-us/) to meet our team and volunteers.
+We welcome new members and contributors. See our upcoming [Events]({{< relref "events" >}}) and visit [About Us]({{< relref "about" >}}) to meet our team and volunteers.
 
 {{< content-end >}}
