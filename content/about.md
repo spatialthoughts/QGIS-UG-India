@@ -22,16 +22,19 @@ We welcome everyone interested in QGIS, from complete beginners to experienced p
 - **Learning:** We support continuous learning and knowledge sharing
 - **Contribution:** We encourage active participation and giving back to the community
 
-### Active Members
+### Our Members
 
 We have members from diverse backgrounds including:
 
 - GIS professionals
 - Environmental scientists
 - Urban planners
+- Data Scientists
+- Software Developers
+- Open Data Enthusiasts
 - Researchers
 - Students
-- Hobbyists
+- ... and more
 
 ## Our Team
 
@@ -54,10 +57,17 @@ We also have several user group members who have contributed content for the web
 | **Blog Posts** | Jyoti |
 | **Tutorials** |  Sudarshan Bhoyar |
 
-
 ## Get Involved
 
 We welcome everyone interested in QGIS to join and contribute in any way you can. If you’d like to volunteer for certain tasks or contribute content, post on our mailing list at qgis-india@googlegroups.com
+
+## Out Logo
+
+<img src="../img/qgis_in.png" alt="QGIS India User Group Logo">
+
+The QGIS India User Group logo seamlessly merges the global identity of QGIS with a strong Indian character. The bold green gradient “QGIS” lettering preserves the recognisable strength of the parent brand while evoking landscapes, environment, and geospatial depth. The stylised “Q” integrates the signature orange and green geometric forms—reimagined as a tricolour-inspired arrow—symbolising layered spatial data, analytical workflows, direction, and forward movement. The “India User Group” text, rendered in a traditional calligraphic style inspired by the forms of the Devanagari script, reinforces cultural rootedness and regional pride. The subtle tricolour underline echoes the Indian national flag, representing diversity, inclusivity, collaboration, and community spirit. Together, these elements express the convergence of open-source geospatial innovation and India’s vibrant, grassroots geospatial community.
+
+The logo was designed by Ark Arjun. A high-resolution version of the logo is available for download from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:QGIS_India_user_group_logo.svg).
 
 ## Affiliations
 
