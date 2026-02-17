@@ -11,11 +11,11 @@ thumbnail: "./img/launch-qgis-india-user-group/image1.webp"
 
 # A Community Comes Together: Launch of the QGIS India User Group
 
-Posted by: [Ujaval Gandhi](mailto:ujaval@spatialthoughts.com)
+Posted by: [Ujaval Gandhi](mailto:ujaval@spatialthoughts.com) 
 
 India is one of the largest user bases of QGIS in the world. From students and researchers to government agencies, startups, NGOs, and independent consultants, QGIS is used on a daily basis across the country. As per the [QGIS Analytics Dashboard](https://analytics.qgis.org/), there were 15,00,000+ opens of QGIS in the last 30 days. Yet until now, the QGIS user community  has not been  well connected. 
 
-Over the years, many of us had aspired to start a local user group, but those discussions never materialized. Finally, an opportunity arose at the [FOSS4G Asia 2026](https://foss4g.asia/2026) conference at Nashik, India. This was one of the largest in-person gatherings of the open-source geospatial community in India, with a strong representation of QGIS users. During one of the Birds-of-a-Feature sessions, we invited interested participants to discuss the idea of forming a local user group in line with the [QGIS.org](http://QGIS.org) [guidelines](https://qgis.org/community/groups/#goals-of-a-user-group). The response was overwhelmingly positive, with strong consensus and enthusiasm in the room. Encouraged by this support, we took the first steps toward to establish the ***QGIS India User Group***. Surrounded by the energy, ideas, and enthusiasm that truly define the open-source spirit, there couldn’t have been a better place to begin this journey.
+Over the years, many of us had aspired to start a local user group, but those discussions never materialized. Finally, an opportunity arose at the [FOSS4G Asia 2026](https://foss4g.asia/2026) conference at Nashik, India. This was one of the largest in-person gatherings of the open-source geospatial community in India, with a strong representation of QGIS users. During one of the Birds-of-a-Feature sessions, we invited interested participants to discuss the idea of forming a local user group in line with the [QGIS.org guidelines](https://qgis.org/community/groups/#goals-of-a-user-group). The response was overwhelmingly positive, with strong consensus and enthusiasm in the room. Encouraged by this support, we took the first steps toward to establish the ***QGIS India User Group***. Surrounded by the energy, ideas, and enthusiasm that truly define the open-source spirit, there couldn’t have been a better place to begin this journey.
 
 <p align="center">
   <img src="../img/launch-qgis-india-user-group/image1.webp" alt="Formation of the QGIS India User Group at FOSS4G Asia 2026">
@@ -43,6 +43,6 @@ We welcome everyone interested in QGIS, from complete beginners to experienced p
 
 ## Join Us
 
-We are just getting started and need your help! We invite you to [Join the community](https://in.qgis.org/#join-us) to connect, learn, and grow together. 
+We are just getting started and need your help! We invite you to [Join the community]({{< relref "/" >}}#join-us) to connect, learn, and grow together. 
 
 {{< content-end >}}
