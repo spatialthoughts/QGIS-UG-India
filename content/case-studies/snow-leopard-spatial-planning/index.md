@@ -4,7 +4,7 @@ title: "Case Study: Species Distribution Modelling and Population Assessment of 
 subtitle: "Local success stories"
 draft: false
 sidebar: true
-thumbnail: "./img/snow-leopard-photo.webp"
+thumbnail: "snow-leopard-spatial-planning/img/snow-leopard-photo.webp"
 
 ---
 
