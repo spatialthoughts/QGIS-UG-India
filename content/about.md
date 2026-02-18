@@ -61,7 +61,7 @@ We also have several user group members who have contributed content for the web
 
 We welcome everyone interested in QGIS to join and contribute in any way you can. If you’d like to volunteer for certain tasks or contribute content, post on our mailing list at qgis-india@googlegroups.com
 
-## Out Logo
+## Our Logo
 
 <img src="../img/qgis_in.png" alt="QGIS India User Group Logo">
 
