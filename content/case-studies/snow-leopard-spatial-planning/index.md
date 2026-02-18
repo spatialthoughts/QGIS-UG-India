@@ -27,15 +27,20 @@ Given this context, the study focused on understanding the status of snow leopar
 
 The data collection was done by placing camera traps at strategic locations to obtain photographic and spatial records of snow leopard individuals. Sampling decisions were guided by maps created using QGIS. Defining the sampling universe was critical, as snow leopards occur at low densities and range across large, fragmented landscapes. Accordingly, the sampling area was delineated using the elevation bounds based on the literature from 3200 to 5200 m Above Sea Level (ASL), establishing a snow leopard range for the entire state.
 
-<p align="center">
-  <img src="./img/snow-leopard-range.webp" alt="Snow leopard range in Himachal Pradesh">
-</p>
-<p align="center"><em>Figure 1. Snow leopard range in Himachal Pradesh derived from elevation bounds.</em></p>
-
-<p align="center">
-  <img src="./img/camera-trap-sites.webp" alt="Camera trap sites across occupancy strata">
-</p>
-<p align="center"><em>Figure 2. Camera trapping sites across high and low occupancy strata.</em></p>
+<div class="columns is-centered">
+  <div class="column is-half">
+    <p align="center">
+      <img src="./img/snow-leopard-range.webp" alt="Snow leopard range in Himachal Pradesh">
+    </p>
+    <p align="center"><em>Figure 1. Snow leopard range in Himachal Pradesh derived from elevation bounds.</em></p>
+  </div>
+  <div class="column is-half">
+    <p align="center">
+      <img src="./img/camera-trap-sites.webp" alt="Camera trap sites across occupancy strata">
+    </p>
+    <p align="center"><em>Figure 2. Camera trapping sites across high and low occupancy strata.</em></p>
+  </div>
+</div>
 
 Along with elevation range, additional factors such as tree cover were combined with prior occupancy knowledge from a previous assessment to delineate two spatial strata representing relatively high and low occupancy regions. This stratification helped minimise spatial bias arising from preferential sampling of well-known areas. The stratified landscape was then subdivided into 4 x 4 km grid cells, converting a continuous and heterogeneous landscape into discrete sampling units. This approach ensured an even distribution of camera traps across the snow leopard range, with one camera placed per grid, approximately near the grid centre where terrain permitted. Field-based information, including snow leopard signs and markings, was subsequently used to guide micro-site selection within each grid.
 
@@ -99,12 +104,12 @@ The second round of population survey in Himachal Pradesh estimated 83 snow leop
 
 By guiding sampling design, effort allocation, field sequencing, data curation, and visualization, QGIS contributed to the robustness of the survey design. Overall, this case study highlights the role of QGIS as a planning and collaborative tool rather than merely a mapping tool.
 
-**Note:** The project was carried out as a collaborative effort by the Wildlife Wing of the Himachal Pradesh Forest Department and the Nature Conservation Foundation, Mysuru.
+*Note: The project was carried out as a collaborative effort by the **Wildlife Wing of the Himachal Pradesh Forest Department** and the **Nature Conservation Foundation**, Mysuru.*
 
 **Further Reading:** [Anon. 2025. Status of snow leopard in Himachal Pradesh, 2025. Wildlife Wing - Himachal Pradesh Forest Department, Government of Himachal Pradesh, Shimla.](https://images.assettype.com/ncfindia/2025-10-13/wj7dw0hs/PAWS_Report_Final_Updated_040825_spreads__1_.pdf)
 
 ## Author
 
-Rajat Rao is an independent researcher working at the intersection of ecology and geospatial science. His interests lie in using GIS, remote sensing, and spatial modelling to address conservation questions, particularly in complex mountain landscapes. He has a background in electronics engineering, a Master's degree in Wildlife Sciences, and is fascinated by GIS.
+**Rajat Rao** is an independent researcher working at the intersection of ecology and geospatial science. His interests lie in using GIS, remote sensing, and spatial modelling to address conservation questions, particularly in complex mountain landscapes. He has a background in electronics engineering, a Master's degree in Wildlife Sciences, and is fascinated by GIS.
 
 {{< content-end >}}
