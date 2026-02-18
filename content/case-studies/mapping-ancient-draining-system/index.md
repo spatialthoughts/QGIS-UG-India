@@ -4,7 +4,7 @@ title: "Digital Documentation of an Ancient Drainage System in Betalbatim, Goa u
 subtitle: "Regional scale study"
 draft: false
 sidebar: true
-thumbnail: "img/drainage_system_5.webp"
+thumbnail: "mapping-ancient-draining-system/img/drainage_system_5.webp"
 
 ---
 
