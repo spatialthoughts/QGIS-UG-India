@@ -4,7 +4,7 @@ title: "Digital Documentation of an Ancient Drainage System in Betalbatim, Goa u
 subtitle: "Regional scale study"
 draft: false
 sidebar: true
-thumbnail: "./img/drainage_system_5.webp"
+thumbnail: "mapping-ancient-draining-system/img/drainage_system_5.webp"
 
 ---
 
@@ -19,14 +19,14 @@ This case study describes how **QGIS** and **QField** were used to identify, dig
 Betalbatim village has a long history of indigenous water management practices, including a network of ancient drainage channels, village ponds, and agricultural fields that together functioned as a **rainwater harvesting and flood mitigation system**. These systems are believed to have existed for several centuries.
 
 <p align="center">
-  <img src="../img/drainage_system_1.webp" alt="Well-preserved Section">
+  <img src="img/drainage_system_1.webp" alt="Well-preserved Section">
 </p>
 <p align="center"><em>Fig. 1. Well-preserved section of Betalbatim's centuries-old traditional drainage system.</em></p>
 
 However, the last officially documented survey of the village exists only in a cadastral plan prepared in 1972. Over decades of rapid coastal development and tourism-driven urbanization, the visibility and institutional memory of this drainage system diminished, even though many channels continued to exist physically on the ground. As a result, several drains were partially blocked, encroached upon, submerged, or altered without recognition of their hydrological importance.
 
 <p align="center">
-  <img src="../img/drainage_system_2.webp" alt="Drainage Channel">
+  <img src="img/drainage_system_2.webp" alt="Drainage Channel">
 </p>
 <p align="center"><em>Fig. 2. Drainage channel hidden by dense foliage, with mature tree growth inside the channel revealing decades of neglect.</em></p>
 
@@ -48,7 +48,7 @@ SpatialCraft collected the historical Village Cadastral Plan from 1972. High-res
 The historical village plans were geo-referenced in QGIS using the high-resolution aerial imagery as a base. Once spatially aligned, the entire traditional drainage network was digitized as vector layers. This included primary and secondary drainage channels, connectivity between segments, and their spatial relationships with ponds, fields, and low-lying areas.
 
 <p align="center">
-  <img src="../img/drainage_system_3.webp" alt="Digitized Drainage Network">
+  <img src="img/drainage_system_3.webp" alt="Digitized Drainage Network">
 </p>
 <p align="center"><em>Fig. 4. Digitized drainage network in QGIS.</em></p>
 
@@ -57,7 +57,7 @@ The historical village plans were geo-referenced in QGIS using the high-resoluti
 To ground-truth the digitized drainage network, SpatialCraft deployed QField for mobile field surveys. The QGIS project was prepared and synchronized for mobile use, allowing community volunteers to navigate directly to digitized drainage segments in the field.
 
 <p align="center">
-  <img src="../img/drainage_system_4.webp" alt="Geotagging and Field Data">
+  <img src="img/drainage_system_4.webp" alt="Geotagging and Field Data">
 </p>
 <p align="center"><em>Fig. 4. Geotagging and field data collection using QField at a heritage man-made pond functioning as a rainwater collection and recharge point within the drainage network.</em></p>
 
@@ -87,7 +87,7 @@ The project resulted in:
 Additionally, areas with blocked drains, submerged sections, and locations where mature trees had grown within drainage paths were clearly identified and mapped.
 
 <p align="center">
-  <img src="../img/drainage_system_5.webp" alt="Interactive WebGIS Map">
+  <img src="img/drainage_system_5.webp" alt="Interactive WebGIS Map">
 </p>
 <p align="center"><em>Fig. 5. Interactive WebGIS map with geotagged photo pop-ups and attribute reports, supporting evidence-based decision-making for the local governing body.</em></p>
 
@@ -105,7 +105,7 @@ These outputs now enable:
 The project also strengthened community engagement by reconnecting residents with forgotten infrastructure created by earlier generations.
 
 <p align="center">
-  <img src="../img/drainage_system_6.webp" alt="Community-led Effort">
+  <img src="img/drainage_system_6.webp" alt="Community-led Effort">
 </p>
 <p align="center"><em>Fig. 6. Community-led effort bringing together youth volunteers, village elders, and elected representatives for a shared conservation initiative.</em></p>
 
@@ -127,3 +127,5 @@ Malcolm Afonso is the Founder of SpatialCraft, a Goa-based geospatial technology
 *This case study was developed using entirely open-source geospatial tools and is intended to support learning, replication, and adaptation by the wider QGIS and disaster management communities.*
 
 *Some datasets were derived from publicly available sources, while others were adapted or simulated for demonstration purposes. The results illustrate QGIS-based workflows and should not be used directly for operational disaster response without validation using authoritative local data.*
+
+{{< content-end >}}
