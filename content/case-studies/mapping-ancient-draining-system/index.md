@@ -127,3 +127,5 @@ Malcolm Afonso is the Founder of SpatialCraft, a Goa-based geospatial technology
 *This case study was developed using entirely open-source geospatial tools and is intended to support learning, replication, and adaptation by the wider QGIS and disaster management communities.*
 
 *Some datasets were derived from publicly available sources, while others were adapted or simulated for demonstration purposes. The results illustrate QGIS-based workflows and should not be used directly for operational disaster response without validation using authoritative local data.*
+
+{{< content-end >}}
