@@ -21,11 +21,11 @@ Stay updated with our upcoming meetups, workshops, and conferences. Join us to l
 When: [Date]  
 Where: [City / Online]
 
-{{< button class = "is-primary1" link = "https://usergroup.qgis.org/" text = "Learn more" >}} 
+{{< button class = "is-primary1" link = "https://in.qgis.org/" text = "Learn more" >}} 
 
 {{< rich-content-end >}}
 {{< rich-right-start >}}
-![](https://usergroup.qgis.org/visualization_center.webp)
+![](https://in.qgis.org/visualization_center.webp)
 {{< rich-right-end >}}
 {{< rich-box-end >}}
 

@@ -15,7 +15,7 @@ body:
     attributes:
       label: URL
       description: URL where this was found
-      placeholder: https://ch.qgis.org/
+      placeholder: https://in.qgis.org/
   - type: dropdown
     id: issues
     attributes:
