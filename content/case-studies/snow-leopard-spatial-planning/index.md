@@ -17,7 +17,7 @@ thumbnail: "./img/snow-leopard-photo.webp"
 The High Himalayan landscape is an example of highly varying topography and climate with complex environmental interactions. Connectivity in this landscape is more complex than in the plains. Ecological similarity is often stronger between areas at the same elevation even when they are separated by several kilometers, than between locations that are closer together but differ in elevation. The snow leopard is one of the main predator species occupying this landscape which spreads across the upper elevated regions of Jammu and Kashmir, Ladakh, Himachal Pradesh, Uttarakhand, Sikkim, and Arunachal Pradesh in India. Retaliatory killing due to livestock hunting, climate change, large-scale developmental projects, poaching, and unregulated tourism are some of the threats faced by the snow leopard.
 
 <p align="center">
-  <img src="../img/snow-leopard-photo.webp" alt="Snow leopard in the wild">
+  <img src="./img/snow-leopard-photo.webp" alt="Snow leopard in the wild">
 </p>
 <p align="center"><em>Photo credit: Kesang Chunit.</em></p>
 
@@ -28,19 +28,19 @@ Given this context, the study focused on understanding the status of snow leopar
 The data collection was done by placing camera traps at strategic locations to obtain photographic and spatial records of snow leopard individuals. Sampling decisions were guided by maps created using QGIS. Defining the sampling universe was critical, as snow leopards occur at low densities and range across large, fragmented landscapes. Accordingly, the sampling area was delineated using the elevation bounds based on the literature from 3200 to 5200 m Above Sea Level (ASL), establishing a snow leopard range for the entire state.
 
 <p align="center">
-  <img src="../img/snow-leopard-range.webp" alt="Snow leopard range in Himachal Pradesh">
+  <img src="./img/snow-leopard-range.webp" alt="Snow leopard range in Himachal Pradesh">
 </p>
 <p align="center"><em>Figure 1. Snow leopard range in Himachal Pradesh derived from elevation bounds.</em></p>
 
 <p align="center">
-  <img src="../img/camera-trap-sites.webp" alt="Camera trap sites across occupancy strata">
+  <img src="./img/camera-trap-sites.webp" alt="Camera trap sites across occupancy strata">
 </p>
 <p align="center"><em>Figure 2. Camera trapping sites across high and low occupancy strata.</em></p>
 
 Along with elevation range, additional factors such as tree cover were combined with prior occupancy knowledge from a previous assessment to delineate two spatial strata representing relatively high and low occupancy regions. This stratification helped minimise spatial bias arising from preferential sampling of well-known areas. The stratified landscape was then subdivided into 4 x 4 km grid cells, converting a continuous and heterogeneous landscape into discrete sampling units. This approach ensured an even distribution of camera traps across the snow leopard range, with one camera placed per grid, approximately near the grid centre where terrain permitted. Field-based information, including snow leopard signs and markings, was subsequently used to guide micro-site selection within each grid.
 
 <p align="center">
-  <img src="../img/camera-trap-detections.webp" alt="Snow leopard detections from camera traps">
+  <img src="./img/camera-trap-detections.webp" alt="Snow leopard detections from camera traps">
 </p>
 <p align="center"><em>Figure 3. Snow leopard detections from camera traps.</em></p>
 
@@ -49,7 +49,7 @@ Along with elevation range, additional factors such as tree cover were combined 
 Maps were critical for planning the sequencing of fieldwork across seasons. The survey was conducted over four rounds spanning spring, summer, and autumn-early winter of the year 2024, during which 271 camera traps were deployed across the snow leopard habitat for 60 days of sampling.
 
 <p align="center">
-  <img src="../img/field-camera-trap.webp" alt="Field team deploying a camera trap">
+  <img src="./img/field-camera-trap.webp" alt="Field team deploying a camera trap">
 </p>
 <p align="center"><em>Photo credit: Nature Conservation Foundation.</em></p>
 
@@ -62,31 +62,31 @@ While the primary objective of the camera trapping exercise was to estimate snow
 <table width="100%">
   <tr>
     <td width="100%" align="center" colspan="2">
-      <img src="../img/blue-sheep-himalayan-ibex.webp" alt="Blue sheep and Himalayan ibex distribution models" width="100%">
+      <img src="./img/blue-sheep-himalayan-ibex.webp" alt="Blue sheep and Himalayan ibex distribution models" width="100%">
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="../img/brown-bear.webp" alt="Brown bear distribution model" width="100%">
+      <img src="./img/brown-bear.webp" alt="Brown bear distribution model" width="100%">
     </td>
     <td width="50%" align="center">
-      <img src="../img/himalayan-wolf.webp" alt="Himalayan wolf distribution model" width="100%">
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <img src="../img/red-fox.webp" alt="Red fox distribution model" width="100%">
-    </td>
-    <td width="50%" align="center">
-      <img src="../img/stone-marten.webp" alt="Stone marten distribution model" width="100%">
+      <img src="./img/himalayan-wolf.webp" alt="Himalayan wolf distribution model" width="100%">
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="../img/yellow-throated-marten.webp" alt="Yellow-throated marten distribution model" width="100%">
+      <img src="./img/red-fox.webp" alt="Red fox distribution model" width="100%">
     </td>
     <td width="50%" align="center">
-      <img src="../img/mountain-weasel.webp" alt="Mountain weasel distribution model" width="100%">
+      <img src="./img/stone-marten.webp" alt="Stone marten distribution model" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="./img/yellow-throated-marten.webp" alt="Yellow-throated marten distribution model" width="100%">
+    </td>
+    <td width="50%" align="center">
+      <img src="./img/mountain-weasel.webp" alt="Mountain weasel distribution model" width="100%">
     </td>
   </tr>
 </table>
