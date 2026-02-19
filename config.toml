@@ -82,11 +82,11 @@ fancy-font = "'Sevillana', cursive"
 
 menuFontClass = "is-size-6"
 ## Gh repo for site footer (include trailing slash)
-githubUrl = "https://github.com/kartoza/hugo-bulma-blocks-theme/"
+githubUrl = "https://github.com/qgis/QGIS-Hugo-Website-Theme"
 ## GH Repo for filing a new issue
-githubIssueUrl = "https://github.com/kartoza/hugo-bulma-blocks-theme/issues/new/choose"
+githubIssueUrl = "https://github.com/qgis/QGIS-Hugo-Website-Themeissues/new/choose"
 ### Edit content repo (set to automatically enter "edit" mode; this is good for "improve this page" links)
-githubEditUrl = "https://github.com/kartoza/hugo-bulma-blocks-theme/edit/main"
+githubEditUrl = "https://github.com/qgis/QGIS-Hugo-Website-Themeedit/main"
 ### Radius for boxes
 corner-radius = "0px"
 
