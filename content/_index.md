@@ -68,6 +68,6 @@ Check out our [Rules]({{< relref "rules" >}}) page to learn about our community 
 
 ## Get Involved
 
-We welcome new members and contributors. See our upcoming [Events]({{< relref "events" >}}) and visit [About Us]({{< relref "about" >}}) to meet our team and volunteers.
+We welcome new members and contributors. See our upcoming [Events]({{< relref "events" >}}) and visit [About Us]({{< relref "about" >}}) to meet our team and learn about different ways you can contribute.
 
 {{< content-end >}}

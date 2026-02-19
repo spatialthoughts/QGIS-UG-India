@@ -47,6 +47,7 @@ The user group structure is evolving, but currently, we have the following teams
 | **Content Creation and Review** | Kiran Bhamlani, Chinmay Shaligram, Manas Patra, Ishaan Bhalerao, Ellen Brock, Lakshmi Kantakumar N. |
 | **Community Management** | Jyoti, Santhosh, Ark Arjun |
 | **Event Planning and Coordination** | Janhavi Mane, Deepak Kumar, Chancy Shah, Afreen Shaikh |
+| **Outreach** | Sabyasachi Puhan | 
 | **Overall Coordination** | Ujaval Gandhi |
 
 We also have several user group members who have contributed content for the website.
@@ -55,11 +56,19 @@ We also have several user group members who have contributed content for the web
 |------|-------------|
 | **Case Studies** | Kavya S Kutty, Rajat Rao, Chinmay Shaligram, Malcolm Afonso, Sreevisal G |
 | **Blog Posts** | Jyoti |
-| **Tutorials** |  Sudarshan Bhoyar |
+| **Tutorials** |  Sudarshan Bhoyar, Ark Arjun |
 
 ## Get Involved
 
-We welcome everyone interested in QGIS to join and contribute in any way you can. If you’d like to volunteer for certain tasks or contribute content, post on our mailing list at qgis-india@googlegroups.com
+We welcome everyone interested in QGIS to join and contribute. We have two primary ways in which you can help.
+
+### Contribute Content
+
+You can submit a Case Study, Tutorial or a Blog post for the user group website. We welcome all content focused on QGIS that is relevant for users in India. Post on our mailing list qgis-india@googlegroups.com with a brief about your idea to get started.
+
+### Volunteer for a Working Group
+
+You can also help with the running of the user group by volunteering for one of the working groups. We have different teams working on website, content, events, outreach and more. Write to us at qgis-india@googlegroups.com with your interest area and we will connect you with other volunteers.
 
 ## Our Logo
 
