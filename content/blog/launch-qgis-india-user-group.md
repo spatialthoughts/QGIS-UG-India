@@ -5,6 +5,8 @@ subtitle: "Tips, resources, and articles for QGIS users"
 draft: false
 sidebar: true
 thumbnail: "./img/launch-qgis-india-user-group/image1.webp"
+date: '2026-02-19'
+author: "Ujaval Gandhi"
 ---
 
 {{< content-start >}}
