@@ -47,6 +47,13 @@ export default defineConfig({
             name: "chromium",
             use: {
                 ...devices["Desktop Chrome"],
+                // Disable web security to allow CORS requests during testing
+                launchOptions: {
+                    args: [
+                        '--disable-web-security',
+                        '--disable-features=IsolateOrigins,site-per-process'
+                    ]
+                }
             },
             dependencies: ["setup"],
         },
