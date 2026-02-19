@@ -3,7 +3,7 @@
 baseURL = 'https://in.qgis.org/'
 languageCode = 'en-us'
 title = 'QGIS India User Group'
-theme = 'hugo-bulma-blocks-theme'
+theme = 'qgis-website-theme'
 # Default pagination.
 # Can override this when needed e.g. {{ range (.Paginator 5).Pages }}
 [pagination]
@@ -81,12 +81,18 @@ text-font = "'Twemoji Country Flags', 'Trueno', sans-serif"
 fancy-font = "'Sevillana', cursive"
 
 menuFontClass = "is-size-6"
+## Gh repo edit link
+## This repo is used for the "Edit this page" link
+githubRepo = "https://github.com/qgis/QGIS-UG-India/"
+githubSubdir = "content"
+githubBranch = "main"
+
 ## Gh repo for site footer (include trailing slash)
-githubUrl = "https://github.com/kartoza/hugo-bulma-blocks-theme/"
+githubUrl = "https://github.com/qgis/QGIS-UG-India/"
 ## GH Repo for filing a new issue
-githubIssueUrl = "https://github.com/kartoza/hugo-bulma-blocks-theme/issues/new/choose"
+githubIssueUrl = "https://github.com/qgis/QGIS-UG-India/issues/new/choose"
 ### Edit content repo (set to automatically enter "edit" mode; this is good for "improve this page" links)
-githubEditUrl = "https://github.com/kartoza/hugo-bulma-blocks-theme/edit/main"
+githubEditUrl = "https://github.com/qgis/QGIS-UG-India/edit/main"
 ### Radius for boxes
 corner-radius = "0px"
 
@@ -96,7 +102,7 @@ uniNavHeaderLocationPrefix = "https://qgis.org"
 uniNavHeaderLogoIcon = "img/qgis_in.png"
 
 ## Url to news feed. After URL change you have to check 
-## themes/hugo-bulma-blocks-theme/layouts/partials/contextmenu.html 
+## themes/qgis-website-theme/layouts/partials/contextmenu.html 
 ## file to ensure that it adresses the correct keys 
 newsfeed ='https://feed.qgis.org/?lang=en&json=1'
 
