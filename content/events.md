@@ -16,19 +16,21 @@ Stay updated with our upcoming meetups, workshops, and conferences. Join us to l
 
 {{< rich-box-start layoutClass="has-right rounded" >}}
 {{< rich-content-start themeClass="coloring-2" >}}
-### QGIS User Group Meetup (Placeholder)
 
-When: [Date]  
-Where: [City / Online]
+### QGIS Open Day
 
-{{< button class = "is-primary1" link = "https://in.qgis.org/" text = "Learn more" >}} 
+When: 27 February, 2026 
+Where: Online
+
+The QGIS India User Group will be presenting at the global QGIS Open Day (QOD) monthly meeting. Please join us on the YouTube livestream to support and encourage the speakers.
+
+{{< button class = "is-primary1" link = "http://github.com/qgis/QGIS/wiki/QOD-February-2026" text = "Learn more" >}} 
 
 {{< rich-content-end >}}
 {{< rich-right-start >}}
 ![](https://in.qgis.org/visualization_center.webp)
 {{< rich-right-end >}}
 {{< rich-box-end >}}
-
 
 {{< columns-start >}}
 {{< column-start>}}
@@ -44,29 +46,7 @@ We organize regular meetups where members can:
 - Get help with QGIS challenges
 - Network with other users
 
-**When:** [Add your meeting schedule]  
-**Where:** [Add your meeting location/online platform]  
-**Registration:** [Add registration information]
-
-
-{{< rich-content-end >}}
-{{< rich-box-end >}}
-{{< column-end >}}
-{{< column-start>}}
-
-{{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-1" >}}
-
-### Workshops & Training
-
-We regularly host hands-on workshops covering:
-- QGIS basics for beginners
-- Advanced analysis techniques
-- Plugin development
-- Cartography and visualization
-- Data processing workflows
-
-Check back regularly for upcoming workshop announcements.
+[Join the community]({{< relref "/" >}}#join-us) to get the announcements for the upcoming meetings.
 
 
 {{< rich-content-end >}}
@@ -74,17 +54,12 @@ Check back regularly for upcoming workshop announcements.
 {{< column-end >}}
 {{< columns-end >}}
 
-## Past Events
 
-[Add information about past events, presentations, or links to recordings]
+{{< rich-box-start icon="📥" layoutClass="tips">}}
 
+##### Connect with Us
 
-{{< rich-box-start icon="💁" layoutClass="tips">}}
-{{< rich-content-start themeClass="coloring-1" >}}
-##### Get Involved
-
-Want to present at our next meetup or organize an event? Contact us at [your-contact-email]
-
+Want to help us organize the next event? [Get involved]({{< relref "/about" >}}#get-involved).
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}

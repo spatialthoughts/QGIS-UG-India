@@ -38,6 +38,18 @@ External QGIS tutorials, playlists, and resources curated by the community.
 ### Tamil
 - [GIS IN TAMIL](https://youtube.com/playlist?list=PL52bS2dAn0uq1CP7OMjQzCPeZ7cq3_UiH&si=qwsKXuuAxKp1tRMf): by @Sukumar Tutorials.
 
+
+## YouTube Channels
+
+Here are some youtube channels from India where people can find tutorials.
+
+- [Geo Guru](https://www.youtube.com/@GeoGuru1)
+- [Geodemia](https://www.youtube.com/@geodemia-g5)
+- [Dr. Sardar Patil](https://www.youtube.com/@dr.sardarpatil7751)
+- [RS and GIS with Dr. Manoj](https://www.youtube.com/@remotesensingandgissupport2058)
+- [Madhuraj PK](https://www.youtube.com/@madhurajpk)
+- [Spatial Thoughts](https://www.youtube.com/@spatialthoughts)
+
 {{< rich-content-end >}}
 {{< rich-box-end >}}
 {{< column-end >}}
