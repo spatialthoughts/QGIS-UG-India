@@ -1,16 +1,16 @@
 ---
 type: "page"
-title: "Tutorials"
-subtitle: "Learn QGIS with practical guides"
+title: "Learning Resources"
+subtitle: "External tutorials and resources to learn QGIS"
 draft: false
 sidebar: true
 ---
 
 {{< content-start >}}
 
-# Tutorials
+# Learning Resources
 
-Practical QGIS tutorials, including local data, projections, and workflows.
+External QGIS tutorials, playlists, and resources curated by the community.
 
 {{< columns-start >}}
 {{< column-start class="is-flex-direction-column is-full">}}
@@ -47,7 +47,7 @@ Practical QGIS tutorials, including local data, projections, and workflows.
 
 ##### Contribute a Tutorial
 
-Send tutorials or links to [tutorials@example.com].
+Want to share a tutorial or resource? [Get involved]({{< relref "/about" >}}#get-involved).
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}

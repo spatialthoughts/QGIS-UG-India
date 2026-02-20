@@ -50,6 +50,13 @@
           {
             "type": "second-menu",
             "settings": {
+              "name": "Learning Resources",
+              "href": "/learning-resources/"
+            }
+          },
+          {
+            "type": "second-menu",
+            "settings": {
               "name": "Blog",
               "href": "/blog/"
             }
