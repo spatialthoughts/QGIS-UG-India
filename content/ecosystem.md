@@ -1,14 +1,14 @@
 ---
 type: "page"
-title: "Community"
-subtitle: "QGIS ecosystem"
+title: "Ecosystem"
+subtitle: "QGIS ecosystem in India"
 draft: false
 sidebar: true
 ---
 
 {{< content-start >}}
 
-# QGIS User Group Ecosystem
+# QGIS Ecosystem in India
 
 Discover companies, contributors, and products from India supporting QGIS.
 
