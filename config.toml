@@ -165,8 +165,8 @@ sectionPagesMenu = 'main'
   weight = 40
 
 [[menu.main]]
-  name = "Community"
-  url = "/community/"
+  name = "Ecosystem"
+  url = "/ecosystem/"
   weight = 50
 
 [[menu.main]]
