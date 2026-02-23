@@ -94,7 +94,7 @@ This case study demonstrates how QGIS can serve as a practical and accessible pl
 
 ## Author
 
-Kavya S Kutty is a Technical Assistant at International Centre for Free and Open Source Solutions and an active user of QGIS and other open-source geospatial tools. She works on community-oriented geospatial projects related to environment, public health, and infrastructure mapping, and is interested in promoting open-source GIS through knowledge sharing, capacity building, and collaborative geospatial development.
+[Kavya S Kutty](https://www.linkedin.com/in/kavya-s-kutty/) is a Technical Assistant at the International Centre for Free and Open Source Solutions and an active user of QGIS and other open-source geospatial tools. She works on community-oriented geospatial projects related to environment, public health, and infrastructure mapping, and is interested in promoting open-source GIS through knowledge sharing, capacity building, and collaborative geospatial development.
 
 
 ---
