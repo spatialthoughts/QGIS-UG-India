@@ -1,6 +1,6 @@
 ---
 type: "page"
-title: "Case Study: Species Distribution Modelling and Population Assessment of Snow Leopards and Other Mammals in Himachal Pradesh"
+title: "Case Study: Population Assessment of Snow Leopards and Species Distribution Modelling of Other Mammals in Himachal Pradesh using R and QGIS"
 subtitle: "Local success stories"
 draft: false
 sidebar: true
