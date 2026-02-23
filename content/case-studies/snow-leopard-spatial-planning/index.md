@@ -10,7 +10,7 @@ thumbnail: "snow-leopard-spatial-planning/img/snow-leopard-photo.webp"
 
 {{< content-start >}}
 
-# Case Study: Species Distribution Modelling and Population Assessment of Snow Leopards and Other Mammals in Himachal Pradesh
+# Case Study: Population Assessment of Snow Leopards and Species Distribution Modelling of Other Mammals in Himachal Pradesh using R and QGIS
 
 ## Introduction
 
