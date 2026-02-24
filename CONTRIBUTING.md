@@ -142,13 +142,13 @@ To fix this, you must remount the drive with **metadata** enabled. This allows L
 Once the permissions are configured, you can clone the repository and use the built-in `Makefile` commands to start the local development server.
 If you are contributing to the website after setting it up the first time,  you must clone the repository **recursively** to ensure the theme and shortcode templates are included.
 
-1.a.  **Navigate and Clone:**
+1.  **Navigate and Clone:**
     ```bash
     cd /mnt/c/Users/YourUsername/Documents
     git clone https://github.com/QGIS/QGIS-UG-India.git
     cd QGIS-UG-India
     ```
-1.b. **Navigate and Clone recursively:**
+1. **Navigate and Clone recursively:**
     ```bash
     cd /mnt/c/Users/YourUsername/Documents
     git clone --recurse-submodules https://github.com/QGIS/QGIS-UG-India.git
