@@ -1,6 +1,6 @@
 # ✨ Contributing to QGIS-User-Group-Website
 
-Thank you for considering contributing to QGIS User Conference Website!
+Thank you for considering contributing to QGIS User Group India Website!
 We welcome contributions of all kinds, including bug fixes, feature requests,
 documentation improvements, and more. Please follow the guidelines below to
 ensure a smooth contribution process.
@@ -151,7 +151,7 @@ If you are contributing to the website after setting it up the first time,  you 
     # Navigate to your preferred Windows directory
     cd /mnt/c/Users/YourUsername/Documents
 
-    # Clone the repository with submodules
+    # Clone the repository with submodules using git bash
     git clone --recurse-submodules [https://github.com/QGIS/QGIS-User-Group-Website.git](https://github.com/QGIS/QGIS-User-Group-Website.git)
     cd QGIS-User-Group-Website
     ```
