@@ -135,8 +135,9 @@ To fix this, you must remount the drive with **metadata** enabled. This allows L
 
 ##### 4. Clone and Launch the Website
 Once the permissions are configured, you can clone the repository and use the built-in `Makefile` commands to start the local development server.
+If you are contributing to the website after setting it up the first time,  you must clone the repository **recursively** to ensure the theme and shortcode templates are included.
 
-1.  **Navigate and Clone:**
+1.a.  **Navigate and Clone:**
     ```bash
     # Navigate to your preferred Windows directory
     cd /mnt/c/Users/YourUsername/Documents
@@ -144,6 +145,20 @@ Once the permissions are configured, you can clone the repository and use the bu
     # Clone the repository
     git clone https://github.com/QGIS/QGIS-User-Group-Website.git
     cd QGIS-User-Group-Website
+    ```
+1.b. **Navigate and Clone recursively:**
+    ```bash
+    # Navigate to your preferred Windows directory
+    cd /mnt/c/Users/YourUsername/Documents
+
+    # Clone the repository with submodules
+    git clone --recurse-submodules [https://github.com/QGIS/QGIS-User-Group-Website.git](https://github.com/QGIS/QGIS-User-Group-Website.git)
+    cd QGIS-User-Group-Website
+    ```
+
+    *If you have already cloned without the submodules, run:*
+    ```bash
+    git submodule update --init --recursive
     ```
 
 2.  **Run the Development Server:**
