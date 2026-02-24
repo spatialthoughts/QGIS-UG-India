@@ -143,7 +143,6 @@ Once the permissions are configured, you can clone the repository and use the bu
 If you are contributing to the website after setting it up the first time,  you must clone the repository **recursively** to ensure the theme and shortcode templates are included.
 
 1.a.  **Navigate and Clone:**
-
     ```bash
     cd /mnt/c/Users/YourUsername/Documents
     git clone https://github.com/QGIS/QGIS-UG-India.git
