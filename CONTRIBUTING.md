@@ -25,7 +25,7 @@ To contribute, you need to clone the repository along with its submodules. The s
 **Standard Clone:**
 ```bash
 git clone --recurse-submodules https://github.com/QGIS/QGIS-UG-India.git
-cd QGIS-User-Group-Website
+cd QGIS-QGIS-UG-India
 ```
 
 If you have already cloned the repository without submodules:
@@ -143,20 +143,15 @@ Once the permissions are configured, you can clone the repository and use the bu
 If you are contributing to the website after setting it up the first time,  you must clone the repository **recursively** to ensure the theme and shortcode templates are included.
 
 1.a.  **Navigate and Clone:**
-    ```bash
-    # Navigate to your preferred Windows directory
-    cd /mnt/c/Users/YourUsername/Documents
 
-    # Clone the repository
+    ```bash
+    cd /mnt/c/Users/YourUsername/Documents
     git clone https://github.com/QGIS/QGIS-UG-India.git
     cd QGIS-UG-India
     ```
 1.b. **Navigate and Clone recursively:**
     ```bash
-    # Navigate to your preferred Windows directory
     cd /mnt/c/Users/YourUsername/Documents
-
-    # Clone the repository with submodules using git bash
     git clone --recurse-submodules https://github.com/QGIS/QGIS-UG-India.git
     cd QGIS-User-Group-Website
     ```
