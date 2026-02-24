@@ -1,4 +1,4 @@
-# ✨ Contributing to QGIS-User-Group-Website
+# ✨ Contributing to QGIS-UG-India
 
 Thank you for considering contributing to QGIS User Group India Website!
 We welcome contributions of all kinds, including bug fixes, feature requests,
@@ -12,7 +12,7 @@ ensure a smooth contribution process.
 
 This web site is a static site built using [Hugo](https://gohugo.io/).
 
-![Hugo Logo](./img/hugo-logo.png) and using the [hugo bulma blocks theme](https://github.com/qgis/QGIS-User-Group-Website).
+![Hugo Logo](./img/hugo-logo.png) and using the [hugo bulma blocks theme](https://github.com/qgis/QGIS-UG-India).
 
 
 ![-----------------------------------------------------](./img/green-gradient.png)
@@ -20,11 +20,16 @@ This web site is a static site built using [Hugo](https://gohugo.io/).
 
 ## 🛒 Getting the Code
 
-development
-```
-git clone --recurse-submodules https://github.com/qgis/QGIS-User-Group-Website.git
+To contribute, you need to clone the repository along with its submodules. The submodules contain the themes and shortcodes necessary to render the site.
+
+**Standard Clone:**
+```bash
+git clone --recurse-submodules https://github.com/QGIS/QGIS-UG-India.git
 cd QGIS-User-Group-Website
-# To update the submodule
+```
+
+If you have already cloned the repository without submodules:
+```bash
 git submodule update --init --recursive
 ```
 
@@ -143,8 +148,8 @@ If you are contributing to the website after setting it up the first time,  you 
     cd /mnt/c/Users/YourUsername/Documents
 
     # Clone the repository
-    git clone https://github.com/QGIS/QGIS-User-Group-Website.git
-    cd QGIS-User-Group-Website
+    git clone https://github.com/QGIS/QGIS-UG-India.git
+    cd QGIS-UG-India
     ```
 1.b. **Navigate and Clone recursively:**
     ```bash
@@ -152,7 +157,7 @@ If you are contributing to the website after setting it up the first time,  you 
     cd /mnt/c/Users/YourUsername/Documents
 
     # Clone the repository with submodules using git bash
-    git clone --recurse-submodules [https://github.com/QGIS/QGIS-User-Group-Website.git](https://github.com/QGIS/QGIS-User-Group-Website.git)
+    git clone --recurse-submodules https://github.com/QGIS/QGIS-UG-India.git
     cd QGIS-User-Group-Website
     ```
 
@@ -194,7 +199,7 @@ If you are using VSCode, I recommend the following extensions:
 Clone the repo:
 
 ```
-git clone https://github.com/qgis/QGIS-User-Group-Website.git
+git clone https://github.com/qgis/QGIS-UG-India.git
 ```
 
 Run the site:
@@ -286,7 +291,7 @@ $PLAYWRIGHT \
     --project chromium
 ```
 
-Read more on testing [here](https://github.com/qgis/QGIS-User-Group-Website/blob/main/playwright/ci-test/README.md).
+Read more on testing [here](https://github.com/qgis/QGIS-UG-India/blob/main/playwright/ci-test/README.md).
 
 ### Running as github action
 
@@ -380,7 +385,7 @@ markdown as ```/img/foo.png```.
 
 The site uses a number of shortcodes to create reusable blocks of content. These are defined in the ```themes/qgis-website-theme/layouts/shortcodes/``` folder.
 
-The shortcodes with screenshots are described [here](https://github.com/qgis/QGIS-User-Group-Website/blob/main/docs/shortcodes.md)
+The shortcodes with screenshots are described [here](https://github.com/qgis/QGIS-UG-India/blob/main/docs/shortcodes.md)
 
 <!-- 3rd level header with icon with title Reusable header web component -->
 ### Reusable header web component
