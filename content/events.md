@@ -32,6 +32,24 @@ The QGIS India User Group will be presenting at the global QGIS Open Day (QOD) m
 {{< rich-right-end >}}
 {{< rich-box-end >}}
 
+{{< rich-box-start layoutClass="has-right rounded" >}}
+{{< rich-content-start themeClass="coloring-2" >}}
+
+### Indian Women in GIS – Women’s Day Event
+
+When: 8 March, 2026  
+Where: Online  
+
+Join us in celebrating International Women’s Day with a special Indian Women in GIS event. This event highlights the contributions of women in geospatial technologies and provides a platform for knowledge sharing and collaboration.
+
+{{< button class = "is-primary1" link = "https://forms.gle/mvnWkN8QKcrAJ8L76" text = "Speaker Registration" >}}
+
+{{< rich-content-end >}}
+{{< rich-right-start >}}
+![](/img/womens-day-2026.jpg)
+{{< rich-right-end >}}
+{{< rich-box-end >}}
+
 {{< columns-start >}}
 {{< column-start>}}
 
