@@ -45,6 +45,9 @@ Join us in celebrating International Women’s Day with a special Indian Women i
 {{< button class = "is-primary1" link = "https://forms.gle/mvnWkN8QKcrAJ8L76" text = "Speaker Registration" >}}
 
 {{< rich-content-end >}}
+{{< rich-right-start >}}
+![](/img/womens-day-2026.jpg)
+{{< rich-right-end >}}
 {{< rich-box-end >}}
 
 {{< columns-start >}}
