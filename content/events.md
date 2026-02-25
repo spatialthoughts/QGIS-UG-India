@@ -24,11 +24,11 @@ Where: Online
 
 The QGIS India User Group will be presenting at the global QGIS Open Day (QOD) monthly meeting. Please join us on the YouTube livestream to support and encourage the speakers.
 
-{{< button class = "is-primary1" link = "http://github.com/qgis/QGIS/wiki/QOD-February-2026" text = "Learn more" >}} 
+{{< button class = "is-primary1" link = "https://github.com/qgis/QGIS/wiki/QOD-February-2026#topic-hello-from-qgis-india-user-group" text = "Learn more" >}} 
 
 {{< rich-content-end >}}
 {{< rich-right-start >}}
-![](https://in.qgis.org/visualization_center.webp)
+![](/img/qod.jpeg)
 {{< rich-right-end >}}
 {{< rich-box-end >}}
 
