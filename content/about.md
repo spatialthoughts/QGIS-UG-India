@@ -46,8 +46,7 @@ The user group structure is evolving, but currently, we have the following teams
 | **Website Development** | Aman Jain, Albert Felix, Jyoti, Deepak Kumar, Mukund Nemane |
 | **Content Creation and Review** | Kiran Bhamlani, Chinmay Shaligram, Manas Patra, Ishaan Bhalerao, Ellen Brock, Lakshmi Kantakumar N. |
 | **Community Management** | Jyoti, Santhosh, Ark Arjun |
-| **Event Planning and Coordination** | Janhavi Mane, Deepak Kumar, Chancy Shah, Afreen Shaikh |
-| **Outreach** | Sabyasachi Puhan | 
+| **Event Planning and Outreach** | Janhavi Mane, Deepak Kumar, Chancy Shah, Afreen Shaikh, Kiran Bhamlani, Sabyasachi Puhan, Aravinth R |
 | **Overall Coordination** | Ujaval Gandhi |
 
 We also have several user group members who have contributed content for the website.
