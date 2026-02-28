@@ -17,24 +17,6 @@ Stay updated with our upcoming meetups, workshops, and conferences. Join us to l
 {{< rich-box-start layoutClass="has-right rounded" >}}
 {{< rich-content-start themeClass="coloring-2" >}}
 
-### QGIS Open Day
-
-When: 27 February, 2026 
-Where: Online
-
-The QGIS India User Group will be presenting at the global QGIS Open Day (QOD) monthly meeting. Please join us on the YouTube livestream to support and encourage the speakers.
-
-{{< button class = "is-primary1" link = "https://github.com/qgis/QGIS/wiki/QOD-February-2026#topic-hello-from-qgis-india-user-group" text = "Learn more" >}} 
-
-{{< rich-content-end >}}
-{{< rich-right-start >}}
-![](/img/qod.jpeg)
-{{< rich-right-end >}}
-{{< rich-box-end >}}
-
-{{< rich-box-start layoutClass="has-right rounded" >}}
-{{< rich-content-start themeClass="coloring-2" >}}
-
 ### Indian Women in GIS – Women’s Day Event
 
 When: 8 March, 2026  
@@ -42,7 +24,7 @@ Where: Online
 
 Join us in celebrating International Women’s Day with a special Indian Women in GIS event. This event highlights the contributions of women in geospatial technologies and provides a platform for knowledge sharing and collaboration.
 
-{{< button class = "is-primary1" link = "https://forms.gle/mvnWkN8QKcrAJ8L76" text = "Speaker Registration" >}}
+{{< button class = "is-primary1" link = "https://forms.gle/mvnWkN8QKcrAJ8L76" text = "Registration Form" >}}
 
 {{< rich-content-end >}}
 {{< rich-right-start >}}
@@ -50,36 +32,37 @@ Join us in celebrating International Women’s Day with a special Indian Women i
 {{< rich-right-end >}}
 {{< rich-box-end >}}
 
-{{< columns-start >}}
-{{< column-start>}}
+## Past Events
 
-{{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-1">}}
+{{< rich-box-start layoutClass="has-right rounded" >}}
+{{< rich-content-start themeClass="coloring-1" >}}
 
-### Regular Meetups
+### QGIS Open Day
 
-We organize regular meetups where members can:
-- Share their latest QGIS projects
-- Learn new techniques and workflows
-- Get help with QGIS challenges
-- Network with other users
+When: 27 February, 2026 
+Where: Online
 
-[Join the community]({{< relref "/" >}}#join-us) to get the announcements for the upcoming meetings.
+The QGIS India User Group will be presented at the global QGIS Open Day (QOD) monthly meeting to talk about our journey and share interesting case studies from the community.
 
+{{< button class = "is-primary1" link = "https://www.youtube.com/watch?v=-A-omz7EYwE" text = "Watch Recording" >}} 
 
 {{< rich-content-end >}}
+{{< rich-right-start >}}
+![](/img/qod.jpeg)
+{{< rich-right-end >}}
 {{< rich-box-end >}}
-{{< column-end >}}
-{{< columns-end >}}
-
 
 {{< rich-box-start icon="📥" layoutClass="tips">}}
+{{< rich-content-start themeClass="coloring-1" >}}
 
 ##### Connect with Us
+
+[Join the community]({{< relref "/" >}}#join-us) to get the announcements for the upcoming meetings. 
 
 Want to help us organize the next event? [Get involved]({{< relref "/about" >}}#get-involved).
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
+
 
 {{< content-end >}}
