@@ -5,6 +5,7 @@ subtitle: "Local success stories"
 draft: false
 sidebar: true
 thumbnail: "snow-leopard-spatial-planning/img/snow-leopard-photo.webp"
+og_image: "case-studies/snow-leopard-spatial-planning/img/snow-leopard-photo.webp"
 
 ---
 

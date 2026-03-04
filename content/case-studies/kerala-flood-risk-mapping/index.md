@@ -5,6 +5,7 @@ subtitle: "Local success stories"
 draft: false
 sidebar: true
 thumbnail: "kerala-flood-risk-mapping/img/flood_6.webp"
+og_image: "case-studies/kerala-flood-risk-mapping/img/flood_6.webp"
 
 ---
 
