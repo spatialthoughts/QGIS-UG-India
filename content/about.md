@@ -44,16 +44,17 @@ The user group structure is evolving, but currently, we have the following teams
 | Responsibility | Team Members |
 |---------------|--------------|
 | **Website Development** | Aman Jain, Albert Felix, Jyoti, Deepak Kumar, Mukund Nemane |
-| **Content Creation and Review** | Kiran Bhamlani, Chinmay Shaligram, Manas Patra, Ishaan Bhalerao, Ellen Brock, Lakshmi Kantakumar N. |
+| **Content Creation and Review** | Kiran Bhamlani, Chinmay Shaligram, Manas Patra, Ishaan Bhalerao, Ellen Brock, Lakshmi Kantakumar N., Sangeetha K|
 | **Community Management** | Jyoti, Santhosh, Ark Arjun |
-| **Event Planning and Outreach** | Janhavi Mane, Deepak Kumar, Chancy Shah, Afreen Shaikh, Kiran Bhamlani, Sabyasachi Puhan, Aravinth R |
+| **Event Planning** | Janhavi Mane, Deepak Kumar, Chancy Shah, Afreen Shaikh, Kiran Bhamlani |
+| **Social Media and Outreach** | Aravinth R, Amey Bagul, Rajat Rao, Sabyasachi Puhan |
 | **Overall Coordination** | Ujaval Gandhi |
 
 We also have several user group members who have contributed content for the website.
 
 | Area | Contributors |
 |------|-------------|
-| **Case Studies** | Kavya S Kutty, Rajat Rao, Chinmay Shaligram, Malcolm Afonso, Sreevisal G |
+| **Case Studies** | Kavya S Kutty, Rajat Rao, Chinmay Shaligram, Malcolm Afonso, Sreevisal G, Pratiksha Chalke |
 | **Blog Posts** | Jyoti |
 | **Tutorials** |  Sudarshan Bhoyar, Ark Arjun |
 
