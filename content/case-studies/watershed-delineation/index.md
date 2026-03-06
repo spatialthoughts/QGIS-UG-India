@@ -5,6 +5,7 @@ subtitle: "Regional scale study"
 draft: false
 sidebar: true
 thumbnail: "watershed-delineation/img/watershed_location.webp"
+og_image: "case-studies/watershed-delineation/img/watershed_location.webp"
 
 ---
 

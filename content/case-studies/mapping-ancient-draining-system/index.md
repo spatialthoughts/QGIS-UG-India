@@ -5,6 +5,7 @@ subtitle: "Regional scale study"
 draft: false
 sidebar: true
 thumbnail: "mapping-ancient-draining-system/img/drainage_system_5.webp"
+og_image: "case-studies/mapping-ancient-draining-system/img/drainage_system_5.webp"
 
 ---
 

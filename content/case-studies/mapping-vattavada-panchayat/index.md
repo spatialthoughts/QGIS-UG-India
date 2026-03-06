@@ -5,6 +5,7 @@ subtitle: "Community-driven mapping"
 draft: false
 sidebar: true
 thumbnail: "mapping-vattavada-panchayat/img/vattavada_ward_map.webp"
+og_image: "case-studies/mapping-vattavada-panchayat/img/vattavada_ward_map.webp"
 
 ---
 

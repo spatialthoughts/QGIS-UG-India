@@ -5,6 +5,7 @@ subtitle: "Step-by-step guides by the community"
 draft: false
 sidebar: true
 thumbnail: "qfield-offline-data-collection/img/plugin-qfieldsync.webp"
+og_image: "tutorials/qfield-offline-data-collection/img/plugin-qfieldsync.webp"
 ---
 
 {{< content-start >}}
