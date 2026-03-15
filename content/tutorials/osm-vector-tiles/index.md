@@ -19,9 +19,9 @@ For a better understanding of the Tile Service, Vector Tiles and their advantage
 
 ## Getting the Data
 
-In this tutorial, we will create a map of roads for the Palakkad Municipality in Kerala using the OSM Vector Tiles. In case you want to use the Palakkad Municipality boundary file, you can download the GeoPackage file [here](https://drive.google.com/file/d/1LJCxLpqmMFv36OgF6FajSOuTJQ2EEbtJ/view) or use any boundary of your choice.
+In this tutorial, we will create a map of roads for the Palakkad Municipality in Kerala using the OSM Vector Tiles. In case you want to use the Palakkad Municipality boundary file, you can download the GeoPackage file [here](https://github.com/qgis/QGIS-UG-India/releases/download/data/Palakkad_Municipality.gpkg) or use any boundary of your choice.
 
-In case you need to download vector administrative boundaries from OSM, there are multiple ways to do so (see e.g. [tutorial 1](https://www.qgistutorials.com/en/docs/3/downloading_osm_data.html) or [tutorial 2](https://www.qgistutorials.com/en/docs/3/fetching_osm_data.html)).
+In case you need to download vector administrative boundaries from OSM, there are multiple ways to do so (see e.g. [tutorial 1](https://arkarjun.medium.com/deriving-vector-layers-of-administrative-boundaries-from-openstreetmap-4c94a96ddd58) or [tutorial 2](https://arkives.in/posts/01/2021/downloading-vector-data-from-osm/)).
 
 ## Setting Up
 
