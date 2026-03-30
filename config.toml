@@ -185,6 +185,11 @@ sectionPagesMenu = 'main'
   weight = 70
 
 [[menu.main]]
+  name = "Member Directory"
+  url = "/member-directory/"
+  weight = 75
+
+[[menu.main]]
   name = "Rules"
   url = "/rules/"
   weight = 80
