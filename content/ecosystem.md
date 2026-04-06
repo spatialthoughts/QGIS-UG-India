@@ -19,6 +19,7 @@ Discover companies, contributors, and products from India supporting QGIS.
 ### Plugins & Products
 
 - **[GeoBearing-Distance](https://plugins.qgis.org/plugins/BearingToolPlugin/)** — A plugin for feature digitizing using ellipsoidal bearing and distance inputs. It complements the native Advanced Digitizing Tool in QGIS, allowing users to create lines and polygons using precise ellipsoidal bearing and distance values with snapping support. Useful in aviation, surveying, navigation, and geospatial engineering workflows.
+- **[Brush Selection Tool](https://plugins.qgis.org/plugins/BrushSelectionTool/)** — Provides an intuitive painting interface for selecting polygon features in QGIS by dragging a circular brush across the map canvas.
 - **[Build_Short_Evac_Time](https://plugins.qgis.org/plugins/build_short_evac_time/)** - A QGIS plugin for computing building-level evacuation planning. It automatically identifies buildings located within a flood inundation area and computes the shortest evacuation routes from these at-risk buildings to designated safe shelters.
 - **[PTHA Based Tsunami Inundation Tool](https://plugins.qgis.org/plugins/ptha_based_tsunami_inundation_tool/)** — A QGIS processing plugin that generates tsunami inundation hazard zones using Probabilistic Tsunami Hazard Assessment (PTHA) water levels and coastal digital elevation models.
 - **[Sankalan 2](https://plugins.qgis.org/plugins/sankalan2/#plugin-about)** — To be used in Sankalan 2.0 Mobile Application for transfer of data to and from mobile app.
