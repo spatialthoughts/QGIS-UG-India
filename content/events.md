@@ -32,7 +32,6 @@ Where: Online
 - Plugin Showcase
     - MilitarySym-V: NATO APP-6D Symbology Plugin for QGIS by Vaibhav Shivaji Nagare
     - Build_Short_Evac_Time Plugin by Gaurav Khairnar
-    - QGIS Hub Plugin by Ronit Jadav
     - GeoBearing-Distance Plugin by Bhuvanamitra S
 - Q&A
 
