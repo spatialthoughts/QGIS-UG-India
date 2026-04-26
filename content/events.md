@@ -14,14 +14,34 @@ Stay updated with our upcoming meetups, workshops, and conferences. Join us to l
 
 ## Upcoming Events
 
-{{< rich-box-start icon="📥" layoutClass="tips">}}
+{{< rich-box-start layoutClass="has-right rounded" >}}
 {{< rich-content-start themeClass="coloring-2" >}}
 
-No upcoming events at the moment.
+### QGIS India Community Day (April 2026)
 
-[Join the community]({{< relref "/" >}}#join-us) to get announcements for new events.
+When: Tuesday 28 April 2026, 7-8pm IST &nbsp;<i class="fas fa-calendar-plus"></i> [Add to Google Calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M2NpNnFxZWdxbzJzNGJoZWM4cTJmMG1vZmIgY18wNmY3NDZkYmE5ZWEwNDE0OWRmNGFkY2UzOTFmMjZjN2E2ZmVmZGU2ODk0OGFjMThhZDcyNzEwZGM1ODk3YWEwQGc&tmsrc=c_06f746dba9ea04149df4adce391f26c7a6fefde68948ac18ad72710dc5897aa0%40group.calendar.google.com)
+
+Where: Online
+
+**Agenda**
+
+- Welcome and Updates from the Community
+- Featured Presentations
+    - Delineating Tiger Corridors in Central India using QGIS by Tara Rajendran
+    - Spectral Remote Sensing in Direction of Mineral Targeting - An Eco-Friendly Technique by Dr Smruti Rekha Sahoo
+- Plugin Showcase
+    - MilitarySym-V: NATO APP-6D Symbology Plugin for QGIS by Vaibhav Shivaji Nagare
+    - Build_Short_Evac_Time Plugin by Gaurav Khairnar
+    - QGIS Hub Plugin by Ronit Jadav
+    - GeoBearing-Distance Plugin by Bhuvanamitra S
+- Q&A
+
+{{< button class = "is-primary1" link = "https://us02web.zoom.us/meetings/89086905274/invitations?signature=qrvFCuaqpUGeg5vobEu7blGc-VFG94XG3eaYVx57syU" text = "Join on Zoom" >}}
 
 {{< rich-content-end >}}
+{{< rich-right-start >}}
+![](/img/community-day-april-2026.webp)
+{{< rich-right-end >}}
 {{< rich-box-end >}}
 
 ## Past Events
