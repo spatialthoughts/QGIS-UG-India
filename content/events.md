@@ -19,7 +19,7 @@ Stay updated with our upcoming meetups, workshops, and conferences. Join us to l
 
 ### QGIS India Community Day (April 2026)
 
-When: Tuesday 28 April 2026, 7-8pm IST &nbsp;<i class="fas fa-calendar-plus"></i> [Add to Google Calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M2NpNnFxZWdxbzJzNGJoZWM4cTJmMG1vZmIgY18wNmY3NDZkYmE5ZWEwNDE0OWRmNGFkY2UzOTFmMjZjN2E2ZmVmZGU2ODk0OGFjMThhZDcyNzEwZGM1ODk3YWEwQGc&tmsrc=c_06f746dba9ea04149df4adce391f26c7a6fefde68948ac18ad72710dc5897aa0%40group.calendar.google.com)
+When: Tuesday 28 April 2026, 7-8pm IST
 
 Where: Online
 
@@ -27,7 +27,7 @@ Where: Online
 
 - Welcome and Updates from the Community
 - Featured Presentations
-    - Delineating Tiger Corridors in Central India using QGIS by Tara Rajendran
+    - Delineating Tiger Corridors in Central India by Tara Rajendran
     - Spectral Remote Sensing in Direction of Mineral Targeting - An Eco-Friendly Technique by Dr Smruti Rekha Sahoo
 - Plugin Showcase
     - MilitarySym-V: NATO APP-6D Symbology Plugin for QGIS by Vaibhav Shivaji Nagare
@@ -36,7 +36,10 @@ Where: Online
     - GeoBearing-Distance Plugin by Bhuvanamitra S
 - Q&A
 
-{{< button class = "is-primary1" link = "https://us02web.zoom.us/meetings/89086905274/invitations?signature=qrvFCuaqpUGeg5vobEu7blGc-VFG94XG3eaYVx57syU" text = "Join on Zoom" >}}
+<div class="buttons">
+{{< button class = "is-primary1" link = "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M2NpNnFxZWdxbzJzNGJoZWM4cTJmMG1vZmIgY18wNmY3NDZkYmE5ZWEwNDE0OWRmNGFkY2UzOTFmMjZjN2E2ZmVmZGU2ODk0OGFjMThhZDcyNzEwZGM1ODk3YWEwQGc&tmsrc=c_06f746dba9ea04149df4adce391f26c7a6fefde68948ac18ad72710dc5897aa0%40group.calendar.google.com" text = "Add To Calendar" >}}
+{{< button class = "is-light1" link = "https://us02web.zoom.us/meetings/89086905274/invitations?signature=qrvFCuaqpUGeg5vobEu7blGc-VFG94XG3eaYVx57syU" text = "Joining Info" >}}
+</div>
 
 {{< rich-content-end >}}
 {{< rich-right-start >}}
