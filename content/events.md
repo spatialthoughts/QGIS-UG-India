@@ -33,6 +33,7 @@ Where: Online
     - MilitarySym-V: NATO APP-6D Symbology Plugin for QGIS by Vaibhav Shivaji Nagare
     - Build_Short_Evac_Time Plugin by Gaurav Khairnar
     - GeoBearing-Distance Plugin by Bhuvanamitra S
+    - Brush Selection Tool by Aman Bagrecha
 - Q&A
 
 <div class="buttons">
