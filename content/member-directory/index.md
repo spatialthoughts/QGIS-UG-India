@@ -14,7 +14,7 @@ This directory lists members of the QGIS India User Group who have chosen to be 
 
 Want to be listed here, or update your entry? Fill in the [member registration form](https://forms.gle/Y738efwadTUFggpg8).
 
-> **Last updated:** April 23, 2026  |  **Total members listed:** 51
+> **Last updated:** April 28, 2026  |  **Total members listed:** 52
 
 <style>
   .md-ctrl-row { display:flex; flex-wrap:wrap; gap:0.75rem; align-items:flex-end; }
@@ -77,19 +77,19 @@ Want to be listed here, or update your entry? Fill in the [member registration f
   <tr><td>11</td><td><strong>Arvind Kumar Pandey</strong></td><td>Tirupati</td><td>Andhra Pradesh</td><td>Indian Institute of Technology (IIT),</td></tr>
   <tr><td>12</td><td><strong>Asok Kumar Kar</strong></td><td>Bangalore</td><td>Karnataka</td><td>APF</td></tr>
   <tr><td>13</td><td><strong>Chintu Kumar</strong></td><td>Bharatpur</td><td>Rajasthan</td><td>Shivalik silica</td></tr>
-  <tr><td>14</td><td><strong>Dipanwita Dutta</strong></td><td>Bangalore</td><td>Karnataka</td><td>Consultant</td></tr>
-  <tr><td>15</td><td><strong>Dr. Mitali Chandnani</strong></td><td>Bangalore</td><td>Karnataka</td><td>rize.farm</td></tr>
-  <tr><td>16</td><td><strong>Dr. Vaibhav Puri</strong></td><td>New Delhi</td><td>New Delhi</td><td>Sri Guru Gobind Singh College Of Commerce, Delhi University</td></tr>
-  <tr><td>17</td><td><strong>Ganesh Sadashiv Dighe</strong></td><td>Sangamner, Ahilynagar</td><td>Maharashtra</td><td>Amrutvahini College of Engineering, Sangamner</td></tr>
-  <tr><td>18</td><td><strong>Gaurav Khairnar</strong></td><td>Hyderabad</td><td>Telangana</td><td>Indian National Centre for Ocean Information Services, Hyderabad</td></tr>
-  <tr><td>19</td><td><strong>Jyoti</strong></td><td>Agra</td><td>Uttar Pradesh</td><td>WRI India</td></tr>
-  <tr><td>20</td><td><strong>Kavya S Kutty</strong></td><td>Thiruvananthapuram</td><td>Kerala</td><td>International Centre for Free and Open Source Solutions</td></tr>
-  <tr><td>21</td><td><strong>Khushbu Birawat</strong></td><td>Bangalore</td><td>Karnataka</td><td>WE360 - Water and Environment Consultants</td></tr>
-  <tr><td>22</td><td><strong>Khushdeep Kaur</strong></td><td>Ahmedabad</td><td>Gujarat</td><td>Ahmedabad University</td></tr>
-  <tr><td>23</td><td><strong>Kiran Bhamblani</strong></td><td>Vadodara</td><td>Gujarat</td><td><span style='color:#aaa'>—</span></td></tr>
-  <tr><td>24</td><td><strong>Kushal Ghosh</strong></td><td>New Delhi</td><td>New Delhi</td><td>Aetosky</td></tr>
-  <tr><td>25</td><td><strong>Manolo Terranova</strong></td><td>Mantova</td><td>Lombardy (Italy)</td><td>Freelance Architect and Land Surveyor</td></tr>
-  <tr><td>26</td><td><strong>Md Farhan</strong></td><td>Delhi</td><td>Delhi</td><td><span style='color:#aaa'>—</span></td></tr>
+  <tr><td>14</td><td><strong>Dhyey Bhatpuria</strong></td><td>Delhi</td><td>Delhi</td><td>International Water Management Institute</td></tr>
+  <tr><td>15</td><td><strong>Dipanwita Dutta</strong></td><td>Bangalore</td><td>Karnataka</td><td>Consultant</td></tr>
+  <tr><td>16</td><td><strong>Ganesh Sadashiv Dighe</strong></td><td>Sangamner, Ahilynagar</td><td>Maharashtra</td><td>Amrutvahini College of Engineering, Sangamner</td></tr>
+  <tr><td>17</td><td><strong>Gaurav Khairnar</strong></td><td>Hyderabad</td><td>Telangana</td><td>Indian National Centre for Ocean Information Services, Hyderabad</td></tr>
+  <tr><td>18</td><td><strong>Jyoti</strong></td><td>Agra</td><td>Uttar Pradesh</td><td>WRI India</td></tr>
+  <tr><td>19</td><td><strong>Kavya S Kutty</strong></td><td>Thiruvananthapuram</td><td>Kerala</td><td>International Centre for Free and Open Source Solutions</td></tr>
+  <tr><td>20</td><td><strong>Khushbu Birawat</strong></td><td>Bangalore</td><td>Karnataka</td><td>WE360 - Water and Environment Consultants</td></tr>
+  <tr><td>21</td><td><strong>Khushdeep Kaur</strong></td><td>Ahmedabad</td><td>Gujarat</td><td>Ahmedabad University</td></tr>
+  <tr><td>22</td><td><strong>Kiran Bhamblani</strong></td><td>Vadodara</td><td>Gujarat</td><td><span style='color:#aaa'>—</span></td></tr>
+  <tr><td>23</td><td><strong>Kushal Ghosh</strong></td><td>New Delhi</td><td>New Delhi</td><td>Aetosky</td></tr>
+  <tr><td>24</td><td><strong>Manolo Terranova</strong></td><td>Mantova</td><td>Lombardy (Italy)</td><td>Freelance Architect and Land Surveyor</td></tr>
+  <tr><td>25</td><td><strong>Md Farhan</strong></td><td>Delhi</td><td>Delhi</td><td><span style='color:#aaa'>—</span></td></tr>
+  <tr><td>26</td><td><strong>Dr. Mitali Chandnani</strong></td><td>Bangalore</td><td>Karnataka</td><td>rize.farm</td></tr>
   <tr><td>27</td><td><strong>Nisha Singh</strong></td><td>New Delhi</td><td>New Delhi</td><td>Jawaharlal Nehru University</td></tr>
   <tr><td>28</td><td><strong>Nitin Pandit</strong></td><td>Devrukh</td><td>Maharashtra</td><td>Independent</td></tr>
   <tr><td>29</td><td><strong>Parimelazhagan D</strong></td><td>Bangalore</td><td>Karnataka</td><td>Louis Dreyfus Company India</td></tr>
@@ -110,11 +110,12 @@ Want to be listed here, or update your entry? Fill in the [member registration f
   <tr><td>44</td><td><strong>Suvam Das</strong></td><td>Hauz Khas</td><td>New Delhi</td><td>Indian Institute of Technology Delhi</td></tr>
   <tr><td>45</td><td><strong>Tara Rajendran</strong></td><td>Hyderabad</td><td>Telangana</td><td>Independent</td></tr>
   <tr><td>46</td><td><strong>Ujaval Gandhi</strong></td><td>Ahmedabad</td><td>Gujarat</td><td>Spatial Thoughts</td></tr>
-  <tr><td>47</td><td><strong>Vaibhav Shivaji Nagare</strong></td><td>Pune</td><td>Maharashtra</td><td>Bharati Vidyapeeth Institute of Environment Education and Research</td></tr>
-  <tr><td>48</td><td><strong>Vaidya R</strong></td><td>Bangalore</td><td>Karnataka</td><td>Oorvani Foundation/Opencity</td></tr>
-  <tr><td>49</td><td><strong>Venkatesh Vidala</strong></td><td>Tirupati</td><td>Andhra Pradesh</td><td>Indian Institute Of Technology (IIT) Tirupati</td></tr>
-  <tr><td>50</td><td><strong>Venugopal T.V</strong></td><td>Bangalore</td><td>Karnataka</td><td>Bhuvan Infra Tech</td></tr>
-  <tr><td>51</td><td><strong>Vishal Bhave</strong></td><td>Ratnagiri</td><td>Maharashtra</td><td>Srushti Conservation Foundation</td></tr>
+  <tr><td>47</td><td><strong>Dr. Vaibhav Puri</strong></td><td>New Delhi</td><td>New Delhi</td><td>Sri Guru Gobind Singh College Of Commerce, Delhi University</td></tr>
+  <tr><td>48</td><td><strong>Vaibhav Shivaji Nagare</strong></td><td>Pune</td><td>Maharashtra</td><td>Bharati Vidyapeeth Institute of Environment Education and Research</td></tr>
+  <tr><td>49</td><td><strong>Vaidya R</strong></td><td>Bangalore</td><td>Karnataka</td><td>Oorvani Foundation/Opencity</td></tr>
+  <tr><td>50</td><td><strong>Venkatesh Vidala</strong></td><td>Tirupati</td><td>Andhra Pradesh</td><td>Indian Institute Of Technology (IIT) Tirupati</td></tr>
+  <tr><td>51</td><td><strong>Venugopal T.V</strong></td><td>Bangalore</td><td>Karnataka</td><td>Bhuvan Infra Tech</td></tr>
+  <tr><td>52</td><td><strong>Vishal Bhave</strong></td><td>Ratnagiri</td><td>Maharashtra</td><td>Srushti Conservation Foundation</td></tr>
   </tbody>
 </table>
 </div>
