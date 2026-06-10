@@ -14,14 +14,24 @@ Stay updated with our upcoming meetups, workshops, and conferences. Join us to l
 
 ## Upcoming Events
 
-{{< rich-box-start icon="📥" layoutClass="tips">}}
+{{< rich-box-start layoutClass="has-right rounded" >}}
 {{< rich-content-start themeClass="coloring-2" >}}
 
-No upcoming events at the moment.
+### QGIS India Community Day (June 2026)
 
-[Join the community]({{< relref "/" >}}#join-us) to get announcements for new events.
+When: Friday 19 June 2026, 5-6pm IST
+
+Where: Online
+
+<div class="buttons">
+{{< button class = "is-primary1" link = "https://forms.gle/RJwqm3AgsTLbcSZq7" text = "Submit Your Talk" >}}
+{{< button class = "is-light1" link = "https://us02web.zoom.us/meetings/89086905274/invitations?signature=qrvFCuaqpUGeg5vobEu7blGc-VFG94XG3eaYVx57syU" text = "Joining Info" >}}
+</div>
 
 {{< rich-content-end >}}
+{{< rich-right-start >}}
+![](/img/community-day-june-2026.webp)
+{{< rich-right-end >}}
 {{< rich-box-end >}}
 
 ## Past Events
