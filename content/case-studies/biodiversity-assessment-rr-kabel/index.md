@@ -3,6 +3,7 @@ type: "page"
 title: "Application of QGIS and QField for Biodiversity Assessment and Tree Survey at RR Kabel, Gujarat, India"
 subtitle: "Local success stories"
 draft: false
+date: 2026-03-06
 sidebar: true
 thumbnail: "biodiversity-assessment-rr-kabel/img/biodiversity_qgis_visualization.webp"
 og_image: "case-studies/biodiversity-assessment-rr-kabel/img/biodiversity_qgis_visualization.webp"

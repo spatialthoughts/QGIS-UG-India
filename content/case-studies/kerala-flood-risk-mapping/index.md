@@ -3,6 +3,7 @@ type: "page"
 title: "QGIS in Action: Mapping Flood Risk and Emergency Response"
 subtitle: "Local success stories"
 draft: false
+date: 2026-02-10
 sidebar: true
 thumbnail: "kerala-flood-risk-mapping/img/flood_6.webp"
 og_image: "case-studies/kerala-flood-risk-mapping/img/flood_6.webp"

@@ -3,6 +3,7 @@ type: "page"
 title: "Digital Documentation of an Ancient Drainage System in Betalbatim, Goa using QGIS and QField"
 subtitle: "Regional scale study"
 draft: false
+date: 2026-02-15
 sidebar: true
 thumbnail: "mapping-ancient-draining-system/img/drainage_system_5.webp"
 og_image: "case-studies/mapping-ancient-draining-system/img/drainage_system_5.webp"
