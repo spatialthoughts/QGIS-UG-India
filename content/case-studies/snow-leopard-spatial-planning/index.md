@@ -3,6 +3,7 @@ type: "page"
 title: "Population Assessment of Snow Leopards and Species Distribution Modelling of Other Mammals in Himachal Pradesh using R and QGIS"
 subtitle: "Local success stories"
 draft: false
+date: 2026-02-18
 sidebar: true
 thumbnail: "snow-leopard-spatial-planning/img/snow-leopard-photo.webp"
 og_image: "case-studies/snow-leopard-spatial-planning/img/snow-leopard-photo.webp"

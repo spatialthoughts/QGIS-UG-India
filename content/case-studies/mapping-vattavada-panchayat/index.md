@@ -3,6 +3,7 @@ type: "page"
 title: "Mapping the Unmapped: Participatory Resource and Ward Mapping of Vattavada Panchayat in Western Ghats using QGIS and QField"
 subtitle: "Community-driven mapping"
 draft: false
+date: 2026-02-18
 sidebar: true
 thumbnail: "mapping-vattavada-panchayat/img/vattavada_ward_map.webp"
 og_image: "case-studies/mapping-vattavada-panchayat/img/vattavada_ward_map.webp"

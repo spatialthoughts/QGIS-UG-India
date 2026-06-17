@@ -3,6 +3,7 @@ type: "page"
 title: "Comparison of Watershed Delineation Using SRTM and CartoDEM in QSWAT+: A Case Study of the Mula River Basin"
 subtitle: "Regional scale study"
 draft: false
+date: 2026-02-24
 sidebar: true
 thumbnail: "watershed-delineation/img/watershed_location.webp"
 og_image: "case-studies/watershed-delineation/img/watershed_location.webp"
