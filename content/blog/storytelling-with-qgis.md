@@ -6,7 +6,7 @@ draft: false
 date: 2026-06-17
 sidebar: true
 thumbnail: "./img/storytelling-with-qgis/gorakhpur_pm25_animation.gif"
-og_image: "blog/img/storytelling-with-qgis/gorakhpur_pm25_animation.gif"
+og_image: "blog/img/storytelling-with-qgis/gorakhpur_pm25_animation.webp"
 author: "Jyoti"
 ---
 
