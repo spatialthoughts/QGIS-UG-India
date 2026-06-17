@@ -19,12 +19,19 @@ Stay updated with our upcoming meetups, workshops, and conferences. Join us to l
 
 ### QGIS India Community Day (June 2026)
 
-When: Friday 19 June 2026, 5-6pm IST
+When: Friday 19 June 2026, 5-6pm IST &nbsp;<i class="fas fa-calendar-plus"></i> [Add to Google Calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MjVlZzYzanZtMm9pYmo5dTN1Z2V2bWozcTYgY18wNmY3NDZkYmE5ZWEwNDE0OWRmNGFkY2UzOTFmMjZjN2E2ZmVmZGU2ODk0OGFjMThhZDcyNzEwZGM1ODk3YWEwQGc&tmsrc=c_06f746dba9ea04149df4adce391f26c7a6fefde68948ac18ad72710dc5897aa0%40group.calendar.google.com)
 
 Where: Online
 
+**Agenda**
+
+- Welcome and Updates from the Community
+- Featured Presentation
+  - Spatial Accessibility of Public Healthcare Facilities Using QGIS - Dr. Vijay Kumar
+- Q&A
+
 <div class="buttons">
-{{< button class = "is-primary1" link = "https://forms.gle/RJwqm3AgsTLbcSZq7" text = "Submit Your Talk" >}}
+{{< button class = "is-primary1" link = "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MjVlZzYzanZtMm9pYmo5dTN1Z2V2bWozcTYgY18wNmY3NDZkYmE5ZWEwNDE0OWRmNGFkY2UzOTFmMjZjN2E2ZmVmZGU2ODk0OGFjMThhZDcyNzEwZGM1ODk3YWEwQGc&tmsrc=c_06f746dba9ea04149df4adce391f26c7a6fefde68948ac18ad72710dc5897aa0%40group.calendar.google.com" text = "Add To Calendar" >}}
 {{< button class = "is-light1" link = "https://us02web.zoom.us/meetings/89086905274/invitations?signature=qrvFCuaqpUGeg5vobEu7blGc-VFG94XG3eaYVx57syU" text = "Joining Info" >}}
 </div>
 
