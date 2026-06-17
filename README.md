@@ -23,6 +23,7 @@
     <li><a href="#-license"> 📜 License </a></li>
     <li><a href="#-using-the-nix-shell"> 🧊 Using the Nix Shell </a></li>
     <li><a href="#-contributing"> ✨ Contributing </a></li>
+    <li><a href="#-claude-code-skills"> 🤖 Claude Code Skills </a></li>
   </ol>
 </details>
 
@@ -228,6 +229,36 @@ Colors and fonts can be customized in `config.toml` under `[params]`.
 
 ![-----------------------------------------------------](./img/green-gradient.png)
 
+
+## 🤖 Claude Code Skills
+
+This repository includes [Claude Code](https://claude.ai/code) skills in `.claude/commands/` that automate common content workflows. To use them, navigate to the root of the repository and start Claude Code. Type the skill name as a slash command.
+
+### `/add-new-content`
+
+Adds a new case study, tutorial, or blog post from a Google Docs HTML export and accompanying images.
+
+**Usage:** Type `/add-new-content` and provide:
+- Path to the exported HTML file
+- Path to the images directory
+- Content type (`case-studies`, `tutorials`, or `blog`)
+- Slug (URL-safe identifier, e.g. `spatial-accessibility-public-healthcare`)
+
+The skill will read the full HTML, convert all images from PNG to webp with descriptive filenames, create the correct directory structure, and write a complete markdown file with proper frontmatter. Content is reproduced faithfully — no paraphrasing or omission.
+
+### `/add-qgis-event`
+
+Adds an upcoming QGIS India Community Day event to `content/events.md`.
+
+**Usage:** Type `/add-qgis-event` and provide:
+- Event date
+- Agenda items
+- Google Calendar link (optional)
+- Image filename (optional)
+
+The skill inserts the event block using the standard template, handles the "No upcoming events" placeholder, and converts any provided PNG image to webp.
+
+![-----------------------------------------------------](./img/green-gradient.png)
 
 ## 📜 License
 
