@@ -14,34 +14,36 @@ Stay updated with our upcoming meetups, workshops, and conferences. Join us to l
 
 ## Upcoming Events
 
-{{< rich-box-start layoutClass="has-right rounded" >}}
+{{< rich-box-start icon="📥" layoutClass="tips">}}
 {{< rich-content-start themeClass="coloring-2" >}}
+
+No upcoming events at the moment.
+
+[Join the community]({{< relref "/" >}}#join-us) to get announcements for new events.
+
+{{< rich-content-end >}}
+{{< rich-box-end >}}
+
+## Past Events
+
+{{< rich-box-start layoutClass="has-right rounded" >}}
+{{< rich-content-start themeClass="coloring-1" >}}
 
 ### QGIS India Community Day (June 2026)
 
-When: Friday 19 June 2026, 5-6pm IST &nbsp;<i class="fas fa-calendar-plus"></i> [Add to Google Calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MjVlZzYzanZtMm9pYmo5dTN1Z2V2bWozcTYgY18wNmY3NDZkYmE5ZWEwNDE0OWRmNGFkY2UzOTFmMjZjN2E2ZmVmZGU2ODk0OGFjMThhZDcyNzEwZGM1ODk3YWEwQGc&tmsrc=c_06f746dba9ea04149df4adce391f26c7a6fefde68948ac18ad72710dc5897aa0%40group.calendar.google.com)
+When: Friday 19 June 2026, 5-6pm IST
 
 Where: Online
 
-**Agenda**
+The QGIS India User Group held its monthly community meeting featuring a presentation on spatial accessibility of public healthcare facilities using QGIS by Dr. Vijay Kumar.
 
-- Welcome and Updates from the Community
-- Featured Presentation
-  - Spatial Accessibility of Public Healthcare Facilities Using QGIS - Dr. Vijay Kumar
-- Q&A
-
-<div class="buttons">
-{{< button class = "is-primary1" link = "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MjVlZzYzanZtMm9pYmo5dTN1Z2V2bWozcTYgY18wNmY3NDZkYmE5ZWEwNDE0OWRmNGFkY2UzOTFmMjZjN2E2ZmVmZGU2ODk0OGFjMThhZDcyNzEwZGM1ODk3YWEwQGc&tmsrc=c_06f746dba9ea04149df4adce391f26c7a6fefde68948ac18ad72710dc5897aa0%40group.calendar.google.com" text = "Add To Calendar" >}}
-{{< button class = "is-light1" link = "https://us02web.zoom.us/meetings/89086905274/invitations?signature=qrvFCuaqpUGeg5vobEu7blGc-VFG94XG3eaYVx57syU" text = "Joining Info" >}}
-</div>
+{{< button class = "is-primary1" link = "https://www.youtube.com/watch?v=pWF-vd-xaDw" text = "Watch Recording" >}}
 
 {{< rich-content-end >}}
 {{< rich-right-start >}}
 ![](/img/community-day-june-2026.webp)
 {{< rich-right-end >}}
 {{< rich-box-end >}}
-
-## Past Events
 
 {{< rich-box-start layoutClass="has-right rounded" >}}
 {{< rich-content-start themeClass="coloring-1" >}}
