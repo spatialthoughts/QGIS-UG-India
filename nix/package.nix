@@ -6,7 +6,7 @@
 }:
 
 stdenv.mkDerivation {
-  name = "qgis-user-group-website";
+  name = "qgis-user-group-india";
 
   src = lib.cleanSourceWith {
     src = ../.;

@@ -48,3 +48,6 @@ core
 CLAUDE.md
 .claude/*
 !.claude/commands/
+
+# Nix
+result
