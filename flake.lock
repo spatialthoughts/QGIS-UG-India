@@ -18,11 +18,11 @@
     },
     "nixpkgs-unstable": {
       "locked": {
-        "lastModified": 1782467914,
-        "narHash": "sha256-pGvFkM8N0xEkIIXDe5YYfbEAvHrk4IxBrjB/x8OomhE=",
+        "lastModified": 1783522502,
+        "narHash": "sha256-iffAls3iaNTyJC2faYcUXSI+Gp02cDjYl+MygxKl2GI=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
+        "rev": "0bb7ec54c8483066ec9d7720e780a5caa71f8612",
         "type": "github"
       },
       "original": {
@@ -38,11 +38,11 @@
         "nixpkgs-unstable": "nixpkgs-unstable"
       },
       "locked": {
-        "lastModified": 1782611200,
-        "narHash": "sha256-b48StIFuaxBb6PvTB8RdB+iWPqwBm/3h3FoTM75LRN0=",
+        "lastModified": 1783820207,
+        "narHash": "sha256-xWq6vKfEbS81kZmAMUB2DGY/IVg56Ye/AaPZ7EzYSfY=",
         "owner": "QGIS",
         "repo": "qgis-nixpkgs-version",
-        "rev": "4ebb65475b26dc23061c711e0dbaac09990a9811",
+        "rev": "2d9442608799622bef88ddb1ea6270b114d38939",
         "type": "github"
       },
       "original": {
