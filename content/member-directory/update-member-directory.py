@@ -13,9 +13,9 @@ Usage:
 Workflow for updating the member list:
     1. Export the latest responses from the Google Form as CSV.
     2. Keep only rows where consent was given.
-    3. Replace members.csv with the new export (retain only the four
-       columns: Full Name, City / Town, State / Union Territory,
-       Organization / Institution Name).
+    3. Replace members.csv with the new export (retain only the columns:
+       Full Name, City / Town, State / Union Territory,
+       Organization / Institution Name, LinkedIn).
     4. Run this script.
     5. Commit both members.csv and index.md.
 """
@@ -163,8 +163,9 @@ def load_members(csv_path: Path) -> list[dict]:
             city = row.get("City / Town", "").strip()
             state = row.get("State / Union Territory", "").strip()
             org = row.get("Organization / Institution Name", "").strip()
+            linkedin = row.get("LinkedIn", "").strip()
             if name:
-                members.append({"name": name, "city": city, "state": state, "org": org})
+                members.append({"name": name, "city": city, "state": state, "org": org, "linkedin": linkedin})
     members.sort(key=lambda r: r["name"].lower())
     return members
 
@@ -178,10 +179,17 @@ def build_table(members: list[dict]) -> str:
     rows = []
     for i, m in enumerate(members, start=1):
         org = esc(m["org"]) if m["org"] else "<span style='color:#aaa'>—</span>"
+        linkedin = (
+            f' <a href="{esc(m["linkedin"])}" target="_blank" rel="noopener" '
+            f'title="LinkedIn Profile" style="color:#0077b5">'
+            f'<i class="fab fa-linkedin"></i></a>'
+            if m["linkedin"]
+            else ""
+        )
         rows.append(
             f"  <tr>"
             f"<td>{i}</td>"
-            f"<td><strong>{esc(m['name'])}</strong></td>"
+            f"<td><strong>{esc(m['name'])}</strong>{linkedin}</td>"
             f"<td>{esc(m['city'])}</td>"
             f"<td>{esc(m['state'])}</td>"
             f"<td>{org}</td>"
