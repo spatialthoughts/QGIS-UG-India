@@ -25,7 +25,9 @@ Where: Online
 
 **Agenda**
 
-- Call for Speakers - [Submit your talk](https://forms.gle/wJxSSzN5rvnbebw8A)
+- NISAR data in QGIS by Dr. Dharmendra Kumar Pandey (30 mins)
+- Calculating Satellite Data Using ObserveEarth Plugin by Krishna Lodha (10 mins)
+- Demonstration of Chainage Calculator QGIS Plugin by Manas Barve (10 mins)
 
 <div class="buttons">
 {{< button class = "is-primary1" link = "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MG81c2Nxb3VnMnRrNTQ4OXB0NTY0cTFxMGcgY18wNmY3NDZkYmE5ZWEwNDE0OWRmNGFkY2UzOTFmMjZjN2E2ZmVmZGU2ODk0OGFjMThhZDcyNzEwZGM1ODk3YWEwQGc&tmsrc=c_06f746dba9ea04149df4adce391f26c7a6fefde68948ac18ad72710dc5897aa0%40group.calendar.google.com" text = "Add To Calendar" >}}
